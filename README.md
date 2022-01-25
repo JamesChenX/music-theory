@@ -22,8 +22,6 @@
 
 必须要会键盘，不然学习的时候，只看乐理无法感受音效效果，这样的学习对于后期的旋律创作以及即兴创作没有帮助
 
-
-
 # 基础乐理
 
 https://www.musicbody.net/music/theory/index.html
@@ -242,13 +240,13 @@ https://www.musicbody.net/music/theory/index.html
 * 固定调唱名法（fixed do）。各音的音高是固定的，音名与唱名相一致，即C唱do，D唱re，E唱mi……依此类推。固定调唱名法不随调号的变化而改变唱名，这种唱名法有利于培养学生的固定音高
 * 首调唱名法（movable do）。随着调号的变化而改变唱名，钢琴键盘上依据调号的不同任意一个音都可以唱成do，如C调，C唱do；D调，D唱do；E调，E唱do……依次类推
 
-###  音程
+###  音程（Intervals）
 
 音程：两个音之间的距离。
 
-半音：两音之间最小的距离。钢琴键盘上相邻的两个琴键的距离就为半音，如E和F、B和C即为半音。
+半音（Half Step）：两音之间最小的距离。钢琴键盘上相邻的两个琴键的距离就为半音，如E和F、B和C即为半音。
 
-全音：两个半音可以构成一个全音。从钢琴键盘上来看，全音的特点是两音中间相隔一个琴键，如C和D、F和G这样的两音中间相隔一个黑键即为全音
+全音（Whole Step）：两个半音可以构成一个全音。从钢琴键盘上来看，全音的特点是两音中间相隔一个琴键，如C和D、F和G这样的两音中间相隔一个黑键即为全音
 
 #### 音程表
 
@@ -256,6 +254,12 @@ https://www.musicbody.net/music/theory/index.html
 | ------ | ------------ | ---------- | ---------- | -------------- | -------------- | -------- | ----------------------------- | -------- | -------------- | -------------- | ---------- | ---------- | ------------ |
 | 音程   | 纯一度       | 小二度     | 大二度     | 小三度         | 大三度         | 纯四度   | 增四度/减五度<br />（三全音） | 纯五度   | 小六度         | 大六度         | 小七度     | 大七度     | 纯八度       |
 | 协和性 | 完全协和音程 | 不协和音程 | 不协和音程 | 不完全协和音程 | 不完全协和音程 | 协和音程 | 不协和音程                    | 协和音程 | 不完全协和音程 | 不完全协和音程 | 不协和音程 | 不协和音程 | 完全协和音程 |
+
+#### 快速识别
+
+![image-20220125125736384](README.assets/image-20220125125736384.png)
+
+![image-20220125125916098](README.assets/image-20220125125916098.png)
 
 #### 音程的协和性（听起来舒服与否）
 
@@ -292,7 +296,7 @@ https://www.musicbody.net/music/theory/index.html
 
 例子：小二度—>大七度、大二度—>小七度、纯四度—>纯五度、增四度—>减五度
 
-#### 三全音（魔鬼音程）
+#### 三全音（魔鬼音程、Tritone）
 
 定义：由三个音调或六个半音组成的音程。
 
@@ -477,7 +481,7 @@ https://www.musicbody.net/music/theory/index.html
   早期在新奥尔良和芝加哥发展起来的“新奥尔良爵士”多以2/4拍为基础。20世纪三四十年代，“大上海”流行歌曲受到美国早期爵士乐的影响较大，因此也多用2/4拍
   
 
-#### 不完全小节（pickup measure）
+#### 不完全小节（pickup measure、anacrusis）
 
 在一个小节内，所有音符时值相加恰好是拍号所标明的拍数时，被称为“完全小节”若所未能达到拍号所标明的拍数，被称为“不完全小节”。
 
@@ -627,7 +631,7 @@ C2DE2F G2FE2D | C6 z2 |
 
 SUBDIVIDE THE BEAT 1-2-3-4 BECOMES 1-8-2-&-3-&-4-&SYNCOPATED NOTES COMEON THE 'AND' SYLLABLE
 
-## 三连音？
+## 三连音（Triplet）
 
 演奏时，三个音的力度要均衡（上下浮动的误差在正负8之间），尤其不要习惯性地把第一个音加强
 
@@ -655,9 +659,11 @@ SUBDIVIDE THE BEAT 1-2-3-4 BECOMES 1-8-2-&-3-&-4-&SYNCOPATED NOTES COMEON THE 'A
 
 ## 五线谱记号
 
+https://en.wikipedia.org/wiki/List_of_musical_symbols
+
 小节线：在乐曲的记谱中，使小节被此分开的垂直细线。小节线起到分割小节的作用，它作为强拍的标记，写在强拍的前面。
 
-### 连音记号（Legato。圆滑线、连音线）
+### 连音记号（Legato。圆滑线、连音线、Slur）
 
 用连线标记，一般记写在音符的上方或下方，表示连线内的音要唱、奏得连贯、流畅。
 
@@ -700,7 +706,7 @@ SUBDIVIDE THE BEAT 1-2-3-4 BECOMES 1-8-2-&-3-&-4-&SYNCOPATED NOTES COMEON THE 'A
 
 ![img](README.assets/4.2-9.jpg)
 
-### 反复记号
+### 反复记号（Repeats）
 
 乐曲部分或全部重复时，可使用反复记号。反复记号按其功能的不同：
 
@@ -742,11 +748,11 @@ SUBDIVIDE THE BEAT 1-2-3-4 BECOMES 1-8-2-&-3-&-4-&SYNCOPATED NOTES COMEON THE 'A
 
 7.*D.C.*反复记号
 
-*D.C.*表示从头反复到*Fine* *D.C.* 处结束。D.C.是意大利语，全称为Da Capo。“al Fine” => “to the end”
+*D.C.*表示从头反复到*Fine* *D.C.* 处结束。D.C.是意大利语，全称为Da Capo。“al Fine” => “to the end”。
 
 ![D.C.反复记号](README.assets/25968e8cdf8a1cbf3bbd202150d09460.png)
 
-Fine后面是“终止线”，因为这里是真正的结尾，而D.C. al Fine后面是“段落线”，因为这里不是乐曲结尾：1、2、3、4、5、6、7、8、1、2、3、4
+Fine后面是“终止线”，因为这里是真正的结尾，而D.C. al Fine后面是“段落线”，因为这里不是乐曲结尾：1、2、3、4、5、6、7、8、1、2、3、4。注意：从头演奏时，可以跳过其他反复记号，只需演奏一遍。
 
 ![preview](README.assets/v2-4d414593dc76adede906f96f3ee58ae6_r.jpg)
 
@@ -787,7 +793,7 @@ Fine后面是“终止线”，因为这里是真正的结尾，而D.C. al Fine�
 
 意大利文经常被用于音乐记谱，指导演奏者如何演奏音乐。音乐术语最早是在 17 世纪由意大利作曲家使用，自此之后传播到世界各地。
 
-#### 速度
+#### 速度（Tempo）
 
 谱上指示的每分钟拍数（BPM）仅是一般的指引。在现代乐中，节拍器标记指示的 BPM 拍数（例如 ♩= 120）可以作为速度标记的补充或替代。以下列表为速度标记：
 
@@ -858,22 +864,39 @@ Larghissimo* – very, very slow (24 bpm and under)
 
 ##### 速度的改变
 
+速度標記通常標記在樂曲第1小節或轉換速度之處，在最高一行樂器的五線譜之上。在管弦樂總譜裏，速度記號也會出現在弦樂組之上，以讓指揮容易看見。而速度漸變的標記，如*rit.*或*accel.*，在鋼琴或其他鍵盤類樂器的樂譜裏，常常標記在兩行之間。
+
 下列为速度变化的术语和缩写。渐进式的变化术语可以用破折号来延伸，以表示变化的持续时间，例如 "*rit. _ _ _*".
 
-| 术语          | 缩写          | 意义                     |
-| :------------ | :------------ | :----------------------- |
-| *a piacere*   |               | 速度任由演奏者决定       |
-| *a tempo*     |               | 恢复先前的速度           |
-| *rallentando* | rall.         | 渐慢                     |
-| *ritardando*  | rit., ritard. | 渐慢                     |
-| *ritenuto*    | riten.        | 立即慢下来               |
-| *rubato*      |               | 弹性速度                 |
-| *stringendo*  |               | 渐快，字面上有“收紧”之意 |
-| *accelerando* | accel.        | 渐快                     |
+| 术语                       | 缩写          | 意义                                                         |
+| :------------------------- | :------------ | :----------------------------------------------------------- |
+| *a piacere*                |               | 速度任由演奏者决定                                           |
+| *a tempo*                  |               | 用於漸快和漸慢標記之後，表示回復漸快或漸慢之前的速度         |
+| *rallentando*              | rall.         | 渐慢，特別用於章節結束的地方                                 |
+| *ritardando*               | rit., ritard. | 渐慢                                                         |
+| *ritenuto*                 | riten.        | 立即慢下来                                                   |
+| *stretto*                  |               | 立即加快                                                     |
+| *rubato*                   |               | 弹性速度                                                     |
+| *Allargando*               |               | 逐漸減慢轉強，特別用於作品結束的地方                         |
+| *stringendo*               |               | 渐快，字面上有“收紧”之意                                     |
+| *accelerando*              | accel.        | 渐快                                                         |
+| *Meno Mosso*               |               | 緩慢點                                                       |
+| *Più Mosso*                |               | 稍快點                                                       |
+| *Tempo primo* 或 *Tempo I* |               | 如果樂曲有多次速度轉變，Tempo primo 表示回復樂曲一開始的速度，例如一首三段曲式的作品，可以是Allegro - Andante - Tempo Primo |
 
+###### 中國音樂的速度
 
+傳統中國音樂亦有慢板、中板、快板、流水板的標記，稱為板眼，在傳統器樂或戲曲的樂譜裏常見，通常標記於1段樂曲之前或1段唱詞之前。
 
-#### 力度
+在戲曲音樂，板眼更接近於西方的拍號而非速度記號：慢板通常指「一板三眼」（又稱一板三叮），即1個重拍，3個輕拍，可視為西方的四拍子。而中板是「一板一眼」，可視為西方的兩拍子；快板或流水板是「有板無眼」，可視為西方的一拍子。
+
+中國音樂的引子或尾聲常常是「散板」，散板的意思是沒有固定的節奏，演奏者可以自行決定每個音的長度，作彈性的快慢處理，在意義上和古典音樂的Senza misura（沒有節拍）和ad libitum（自由節拍）相近。
+
+因為沒有準確的速度標記，中國戲曲音樂和傳統中國音樂的速度常常是約定俗成，即某一體裁習慣上是以某一速度演奏，則會依據這種傳統演奏。但同一樂曲的速度，在不同地方和不同流派可以有不同的演繹。
+
+而20世紀以來，中國音樂受到西方影響，作曲家亦常常會加上西式的速度和感情標記。
+
+#### 力度（Dynamics）
 
 下列为常见的力度记号；这些记号表示响度的相对变化，并不是指特定的音量级别。与其他意大利术语记号相反的是，力度记号标记通常会写在五线之下，或介于两个五线之间。
 
@@ -888,14 +911,14 @@ Larghissimo* – very, very slow (24 bpm and under)
 | *fortissimo*    | ***ff***  | 极强 |
 | *fortississimo* | ***fff*** | 最强 |
 
-##### Dynamic changes
+##### 力度变化（Dynamic changes）
 
-下列为力度变化。渐强渐弱符号 (![Crescendo](README.assets/crescendo.svg)![Diminuendo](README.assets/diminuendo.svg)) 用于表示几个小节的力度变化，而 *cresc.* 和 *dim.* 则用来表示较长乐句的力度变化。术语的指示则可以用破折号来延伸，以表示变化的持续时间。
+渐强渐弱符号 (![Crescendo](README.assets/crescendo.svg)![Diminuendo](README.assets/diminuendo.svg)) 用于表示几个小节的力度变化，而 *cresc.* 和 *dim.* 则用来表示较长乐句的力度变化。术语的指示则可以用破折号来延伸，以表示变化的持续时间。
 
 | 术语                             | 符号                                                      | 意义                         |
 | :------------------------------- | :-------------------------------------------------------- | :--------------------------- |
 | *crescendo*                      | ***cresc.*** 或 ![Crescendo](README.assets/crescendo.svg) | 渐强                         |
-| *diminuendo*                     | ***dim.*** 或 ![Diminuendo](README.assets/diminuendo.svg) | 渐弱                         |
+| *diminuendo*、decrescendo        | ***dim.*** 或 ![Diminuendo](README.assets/diminuendo.svg) | 渐弱                         |
 | *fortepiano*                     | ***fp***                                                  | 强后即弱                     |
 | *sforzando, forzando, szforzato* | ***sfz***, ***sf*** 或 ***fz***                           | 突强（用于音符或和弦）       |
 | *rinforzando*                    | ***rfz*** 或 ***rf***                                     | 突强（用于音符、和弦或乐句） |
@@ -904,21 +927,27 @@ Larghissimo* – very, very slow (24 bpm and under)
 
 下列为常见的演奏技巧术语，这些术语指示演奏者使用特定的演奏技巧，以产生所需的声响。
 
-| 术语            | 缩写        | 意义                                                 |
-| :-------------- | :---------- | :--------------------------------------------------- |
-| *arpeggio*      | arp.        | 琶音；指和弦的音由低到高或由高到低依次奏出           |
-| *glissando*     | gliss.      | 滑音；指两个音之间连续变化音高，以达到上下运行的效果 |
-| *legato*        |             | 连奏又称连音，是一种音与音平滑相连的演奏法           |
-| *mano destra*   | m.d.        | 右手                                                 |
-| *mano sinistra* | m.s.        | 左手                                                 |
-| *con sordino*   |             | 加弱音踏板，或者不加延音踏板（以钢琴为例）           |
-| *senza sordino* |             | 不加弱音踏板，或者加延音踏板（以钢琴为例）           |
-| *pizzicato*     | pizz.       | 拨奏；用手指拨出声响，而不是使用弓来拉奏             |
-| *portamento*    | port.       | 滑音；指两个音之间连续变化音高，以达到上下运行的效果 |
-| *tutti*         |             | 乐团全体演奏                                         |
-| *staccato*      | stacc.      | 断音奏法；音与音之间不连接                           |
-| *staccatissimo* | staccatiss. | 特短断音奏法；音与音之间明显分隔                     |
-| *vibrato*       |             | 抖音；音符的音调快速反复微变化                       |
+Articulations specify the length, volume, and style of attack of individual notes.
+
+| 术语             | 缩写        | 意义                                                         |
+| :--------------- | :---------- | :----------------------------------------------------------- |
+| *arpeggio*       | arp.        | 琶音；指和弦的音由低到高或由高到低依次奏出                   |
+| Accent           |             | 重音。An accent indicates that a note should be played louder, or with a harder attack than surrounding unaccented notes. It may appear on notes of any duration.<br />[![Music-marcato.svg](README.assets/100px-Music-marcato.svg.png)](https://en.wikipedia.org/wiki/File:Music-marcato.svg) |
+| Marcato          |             | A marcato marking indicates that the note should be played louder or more forcefully than a note with a regular accent mark. In organ notation, this sign often does not indicate marcato, but instead that a pedal note should be played with the toe. When printed above the note it indicates the right foot, and below the note indicates the left foot.<br />[![Music-strong-marcato.svg](README.assets/100px-Music-strong-marcato.svg.png)](https://en.wikipedia.org/wiki/File:Music-strong-marcato.svg) |
+| *glissando*      | gliss.      | 滑音；指两个音之间连续变化音高，以达到上下运行的效果         |
+| *legato*         |             | 连奏又称连音，是一种音与音平滑相连的演奏法                   |
+| *mano destra*    | m.d.        | 右手                                                         |
+| *mano sinistra*  | m.s.        | 左手                                                         |
+| *con sordino*    |             | 加弱音踏板，或者不加延音踏板（以钢琴为例）                   |
+| *senza sordino*  |             | 不加弱音踏板，或者加延音踏板（以钢琴为例）                   |
+| *pizzicato*      | pizz.       | 拨奏；用手指拨出声响，而不是使用弓来拉奏                     |
+| *portamento*     | port.       | 滑音；指两个音之间连续变化音高，以达到上下运行的效果         |
+| *tutti*          |             | 乐团全体演奏                                                 |
+| *staccato*       | stacc.      | 断音奏法；音与音之间不连接<br />[![Music-staccato.svg](README.assets/100px-Music-staccato.svg.png)](https://en.wikipedia.org/wiki/File:Music-staccato.svg) |
+| *staccatissimo*  | staccatiss. | 特短断音奏法；音与音之间明显分隔<br />[![Music-staccatissimo.svg](README.assets/100px-Music-staccatissimo.svg.png)](https://en.wikipedia.org/wiki/File:Music-staccatissimo.svg) |
+| tenuto           |             | 保持音                                                       |
+| Fermata or Pause |             | 延音记号。A fermata indicates that a note, chord, or rest is sustained longer than its written value. It will usually appear on all parts in an ensemble. The fermata is held for as long as the performer or conductor desires.<br />[![Music-fermata.svg](README.assets/100px-Music-fermata.svg.png)](https://en.wikipedia.org/wiki/File:Music-fermata.svg) |
+| *vibrato*        |             | 抖音；音符的音调快速反复微变化                               |
 
 #### 情绪
 
@@ -947,7 +976,7 @@ Larghissimo* – very, very slow (24 bpm and under)
 | *tenuto*     | 持续的           |
 | *tranquillo* | 宁静的           |
 
-#### 反复记号
+#### 反复记号（Repeats）
 
 下列为反复记号。这些反复记号指示演奏者重复演奏作品的某些段落。
 
@@ -992,7 +1021,7 @@ Larghissimo* – very, very slow (24 bpm and under)
 
 调式的中心音，简单说就是音阶开始的音。Key of C是说主音为C
 
-### 音阶
+### 音阶（Scale）
 
 定义：调式中的音，按照高低次序（上行或下行），由主音到主音排序起来就叫做音阶。
 
@@ -1013,11 +1042,29 @@ Larghissimo* – very, very slow (24 bpm and under)
 
 调式：在一个音阶中，环绕一个主音的和声关系构建出的音与音之间的排列模式（如：全全半全全全半）
 
-### 调号
+### 调号（Key Signature）
 
 调号表明了一段旋律的调式，并标明音符的升或降。线、间上调性的临时升降记号会影响旋律中所有的音符，除非有一个还原号。
 
-![image-20200830150953739](README.assets/image-20200830150953739.png)
+记忆技巧：
+
+* 调号中每个音的升降号位置是固定的
+* 如果是升号，那就看最后一个升号在哪个音上，给它加一个半音，得出来的音就是X大调的主音，而给它减一个全音，那得出的音就是X小调的主音。如调号只有一个#F，那就给#F加一个半音，得到G，那它就是G大调。而给它减去一个全音，得到E，那它就是E小调。
+* 如果是降号，那就看倒数第二个降号在哪个音上，那个音就是X大调的主音。如果只有一个降号，那就死记它是F大调/D小调
+
+|                        Key signature                         |                    Major key                     |                    Minor key                     |
+| :----------------------------------------------------------: | :----------------------------------------------: | :----------------------------------------------: |
+| [![C Major key signature](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Treble_clef_with_empty_staff.svg/100px-Treble_clef_with_empty_staff.svg.png)](https://en.wikipedia.org/wiki/File:Treble_clef_with_empty_staff.svg) no sharps or flats | [C major](https://en.wikipedia.org/wiki/C_major) | [A minor](https://en.wikipedia.org/wiki/A_minor) |
+
+|                        Key signature                         | Added ♯ |                        Major key                        |                        Minor key                        |                        Key signature                         | Added ♭ |                       Major key                        |                       Minor key                        |
+| :----------------------------------------------------------: | :-----: | :-----------------------------------------------------: | :-----------------------------------------------------: | :----------------------------------------------------------: | :-----: | :----------------------------------------------------: | :----------------------------------------------------: |
+| [![G Major key signature](README.assets/100px-G-major_e-minor.svg.png)](https://en.wikipedia.org/wiki/File:G-major_e-minor.svg) 1 sharp |   F♯    |    [G major](https://en.wikipedia.org/wiki/G_major)     |    [E minor](https://en.wikipedia.org/wiki/E_minor)     | [![F Major key signature](README.assets/100px-F-major_d-minor.svg.png)](https://en.wikipedia.org/wiki/File:F-major_d-minor.svg) 1 flat |   B♭    |    [F major](https://en.wikipedia.org/wiki/F_major)    |    [D minor](https://en.wikipedia.org/wiki/D_minor)    |
+| [![D Major key signature](README.assets/100px-D-major_b-minor.svg.png)](https://en.wikipedia.org/wiki/File:D-major_b-minor.svg) 2 sharps |   C♯    |    [D major](https://en.wikipedia.org/wiki/D_major)     |    [B minor](https://en.wikipedia.org/wiki/B_minor)     | [![B-flat Major key signature](README.assets/100px-B-flat-major_g-minor.svg.png)](https://en.wikipedia.org/wiki/File:B-flat-major_g-minor.svg) 2 flats |   E♭    | [B♭ major](https://en.wikipedia.org/wiki/B-flat_major) |    [G minor](https://en.wikipedia.org/wiki/G_minor)    |
+| [![A Major key signature](README.assets/100px-A-major_f-sharp-minor.svg.png)](https://en.wikipedia.org/wiki/File:A-major_f-sharp-minor.svg) 3 sharps |   G♯    |    [A major](https://en.wikipedia.org/wiki/A_major)     | [F♯ minor](https://en.wikipedia.org/wiki/F-sharp_minor) | [![E-flat Major key signature](README.assets/100px-E-flat-major_c-minor.svg.png)](https://en.wikipedia.org/wiki/File:E-flat-major_c-minor.svg) 3 flats |   A♭    | [E♭ major](https://en.wikipedia.org/wiki/E-flat_major) |    [C minor](https://en.wikipedia.org/wiki/C_minor)    |
+| [![E Major key signature](README.assets/100px-E-major_c-sharp-minor.svg.png)](https://en.wikipedia.org/wiki/File:E-major_c-sharp-minor.svg) 4 sharps |   D♯    |    [E major](https://en.wikipedia.org/wiki/E_major)     | [C♯ minor](https://en.wikipedia.org/wiki/C-sharp_minor) | [![A-flat Major key signature](README.assets/100px-A-flat-major_f-minor.svg.png)](https://en.wikipedia.org/wiki/File:A-flat-major_f-minor.svg) 4 flats |   D♭    | [A♭ major](https://en.wikipedia.org/wiki/A-flat_major) |    [F minor](https://en.wikipedia.org/wiki/F_minor)    |
+| [![B Major key signature](README.assets/100px-B-major_g-sharp-minor.svg.png)](https://en.wikipedia.org/wiki/File:B-major_g-sharp-minor.svg) 5 sharps |   A♯    |    [B major](https://en.wikipedia.org/wiki/B_major)     | [G♯ minor](https://en.wikipedia.org/wiki/G-sharp_minor) | [![D-flat Major key signature](README.assets/100px-D-flat-major_b-flat-minor.svg.png)](https://en.wikipedia.org/wiki/File:D-flat-major_b-flat-minor.svg) 5 flats |   G♭    | [D♭ major](https://en.wikipedia.org/wiki/D-flat_major) | [B♭ minor](https://en.wikipedia.org/wiki/B-flat_minor) |
+| [![F-sharp Major key signature](README.assets/100px-F-sharp-major_d-sharp-minor.svg.png)](https://en.wikipedia.org/wiki/File:F-sharp-major_d-sharp-minor.svg) 6 sharps |   E♯    | [F♯ major](https://en.wikipedia.org/wiki/F-sharp_major) | [D♯ minor](https://en.wikipedia.org/wiki/D-sharp_minor) | [![G-flat Major key signature](README.assets/100px-G-flat-major_e-flat-minor.svg.png)](https://en.wikipedia.org/wiki/File:G-flat-major_e-flat-minor.svg) 6 flats |   C♭    | [G♭ major](https://en.wikipedia.org/wiki/G-flat_major) | [E♭ minor](https://en.wikipedia.org/wiki/E-flat_minor) |
+| [![C-sharp Major key signature](README.assets/100px-C-sharp-major_a-sharp-minor.svg.png)](https://en.wikipedia.org/wiki/File:C-sharp-major_a-sharp-minor.svg) 7 sharps |   B♯    | [C♯ major](https://en.wikipedia.org/wiki/C-sharp_major) | [A♯ minor](https://en.wikipedia.org/wiki/A-sharp_minor) | [![C-flat Major key signature](README.assets/100px-C-flat-major_a-flat-minor.svg.png)](https://en.wikipedia.org/wiki/File:C-flat-major_a-flat-minor.svg) 7 flats |   F♭    | [C♭ major](https://en.wikipedia.org/wiki/C-flat_major) | [A♭ minor](https://en.wikipedia.org/wiki/A-flat_minor) |
 
 ### 形成 "调" 有三个条件
 
@@ -1050,9 +1097,9 @@ Larghissimo* – very, very slow (24 bpm and under)
 当一个乐句，或者一个段落的和弦进行落在其顺阶和弦上，同时旋律也落在音阶上，则该段落可能为"某调"。"可能" 是因为还没确定根音到底是谁，因为相同的音阶可能 "同时" 符合很多音程关系，乐理分析的专有名词叫做“关系调”。
 要确立调的根音，可以参考歌曲的终止或者起始。接下来 "调式" 将解释当根音落在不一样的起始点的时候，他们的意义就不一样了。
 
-### 调式
+### 调式（Mode）
 
-以主音为基础计算出来的，固定的音程结构。
+以主音为基础计算出来的，固定的音程结构。两洋音乐有大调式与小调式之分。
 
 调式是以 "调" 的观念为基础，但是从不同角度理解的概念。
 先看一般的理解方式，大部分都会从有一样的音阶音群来看，像是 C 大调跟 G Mixolydian 为例，他们有着同样的音阶音群，但是他们的根音分别为： C 跟 G。他们使用同样的音，但是这些音有着不同的次序：
@@ -2052,13 +2099,13 @@ C大三和弦（135）的Csus2挂二和弦是三音变成二音，Csus4（或Csu
 * 如果是句末，则要考虑和弦要包含句末音
 * 和声进行（和弦连接）也非常重要，需要综合考虑。
 
-### 三和弦
+### 三和弦（Triads）
 
 定义：三个音按照三度音程关系叠置
 
 以任何一个音为根音都可以构成4种三和弦。
 
-和弦音的排列自下而上，分别为根音、三音（中音）、五音（冠音）。
+和弦音的排列自下而上，分别为根音（Root）、三音（中音、）、五音（冠音）。
 
 和弦的读法：和弦应自下而上依次读出各音。C和弦（CDE）应读作do mi sol
 
@@ -2151,7 +2198,7 @@ Q:60
 
 ![img](README.assets/小調類順階三和絃.jpg)
 
-### 七和弦
+### 七和弦（Seventh Chord）
 
 定义：四个音按照三度音程关系叠置
 
@@ -2245,7 +2292,7 @@ Q:60
 
 1. 用大七和弦演奏五声音阶，如原本C三和弦为135，可以演奏为1236
 
-### 转位和弦
+### 转位和弦（Inversions）
 
 作用
 
@@ -2349,7 +2396,7 @@ Cadd2：一个三和弦加了大二度音之后，会有一个模糊的感觉。
 
 ![image-20200824230314307](README.assets/image-20200824230314307.png)
 
-### 顺阶和弦（调内和弦）
+### 顺阶和弦（调内和弦、Diatonic Chord）
 
 指完全用音阶内的音组成的和弦。
 
@@ -7479,6 +7526,10 @@ Clone Ensemble【自动合唱效果器插件】[可以把独唱变成合唱，�
 
 # 乐曲分析
 
+### 乐谱分析
+
+1. 如果乐谱没有调号，则扫一眼乐谱的大部分音是在哪个自然音级上，尤其注意变化音级，然后快速反推其调号。如G大调有一个#F，其他的都是自然音。
+
 ### 以歌曲《大鱼》为例分析旋律的走向和发展
 
 在了解了旋律的走向（运动形态）和发展之后，就可以针对一些流行歌曲进行简单的作曲分析了。下文将以歌曲《大鱼》为例进行分析。
@@ -7622,6 +7673,100 @@ B段部分的和弦进行包括了前两部分的和弦进行特点，既有为�
 ![image-20200831225248385](README.assets/image-20200831225248385.png)
 
 转调后的副歌结束以后就是歌曲的收尾部分。这一趋于结束的过程在情绪上相对于副歌高潮部分，显然是平静了许多的。在这里钟兴民老师使用了①级接④级的和声进行来舒缓高潮部分高涨的情绪，并在第二遍时候用⑥级替代了①级，产生了短时间的小变化，心情在这暗淡的小调主和弦中平静了下来，歌曲最终在④级和弦所产生的意犹未尽感中结束。
+
+# 乐理练习项与网站
+
+https://www.musictheory.net/exercises
+
+## STAFF IDENTIFICATION
+
+* Note Identification
+
+  Identify the displayed note.	
+
+* Key Signature Identification
+
+  Identify the displayed key signature.
+
+* Interval Identification
+
+  Identify the displayed interval.
+
+* Scale Identification
+
+  Identify the displayed scale.
+
+* Chord Identification
+
+  Identify the displayed chord.
+
+## STAFF CONSTRUCTION
+
+* Note Construction
+
+  Construct the requested note.
+
+* Key Signature Construction
+
+  Construct the requested key signature.
+
+* Interval Construction
+
+  Construct the requested interval.
+
+* Scale Construction
+
+  Construct the requested scale.
+
+* Chord Construction
+
+  Construct the requested chord.
+
+## KEYBOARD IDENTIFICATION
+
+* Keyboard Note Identification
+
+  Identify the highlighted piano key.
+
+* Keyboard Reverse Identification
+
+  Identify the note by pressing a piano key.
+
+* Keyboard Interval Identification
+
+  Identify the interval of the highlighted piano keys.
+
+* Keyboard Scale Identification
+
+  Identify the scale of the highlighted piano keys.
+
+* Keyboard Chord Identification
+
+  Identify the chord of the highlighted piano keys.
+
+## FRETBOARD IDENTIFICATION
+
+* Fretboard Note Identification
+    Identify the note of the marked fretboard position.
+* Fretboard Interval Identification
+    Identify the interval of the marked fretboard positions.
+* Fretboard Scale Identification
+    Identify the scale of the marked fretboard positions.
+* Fretboard Chord Identification
+    Identify the chord of the marked fretboard positions.
+
+## EAR TRAINING
+
+* Keyboard Ear Training
+    Listen and press the piano key of the played note.
+* Note Ear Training
+    Listen and identify the played note.
+* Interval Ear Training
+    Listen and identify the played interval.
+* Scale Ear Training
+    Listen and identify the played scale.
+* Chord Ear Training
+    Listen and identify the played chord.
 
 # 钢琴练习
 
