@@ -10,10 +10,10 @@
 * 音乐风格
 * 乐器演奏
 
-设备操作
+基础声学
 
-* 设备连接
-* 电脑
+MIDI与合成器
+
 * 音序器（宿主）
 * 音源
 * 合成器
@@ -23,6 +23,18 @@
 
 必须要会键盘，不然学习的时候，只看乐理无法感受音效效果，这样的学习对于后期的旋律创作以及即兴创作没有帮助
 
+# 练习网站
+
+* https://tonesavvy.com/music-practice-exercises/
+
+* https://web.meludia.com
+
+  类别丰富（不仅有传统的乐理练习，还有其他练耳训练）、大量练习、循序渐进、相对趣味性强，不容易无聊。
+
+* https://app.flowkey.com.cn
+
+做音高相关练习时，要跟着唱，这样有利于听得准。比如有时候听不出哪个音高，自己跟着唱一下，就明白哪个音高了。
+
 # 基础乐理
 
 https://www.musicbody.net/music/theory/index.html
@@ -30,6 +42,8 @@ https://www.musicbody.net/music/theory/index.html
 非常全面的乐理书：https://musictheory.pugetsound.edu/mt21c/DiatonicChordsInMinor.html
 
 https://musictheory.pugetsound.edu/hw/MusicTheory-Aug-2020.pdf
+
+带Podcast授课：https://musicstudent101.com/
 
 http://openmusictheory.com/intervals.html
 
@@ -1388,7 +1402,7 @@ C属七和弦的构成音为：C、E、G、B♭，而在属七和弦中，对其
 
 调号表明了一段旋律的调式，并标明音符的升或降。线、间上调性的临时升降记号会影响旋律中所有的音符，除非有一个还原号。
 
-记忆技巧：
+#### 记忆技巧
 
 * 调号中每个音的升降号位置是固定的
 
@@ -10379,6 +10393,8 @@ Clone Ensemble【自动合唱效果器插件】[可以把独唱变成合唱，�
 
 # 乐曲分析
 
+[Musical Analysis Visiting the Great Composers 6th Edition](https://www.fransabsil.nl/archpdf/musanbk.pdf)
+
 ### 乐谱分析
 
 1. 如果乐谱没有调号，则扫一眼乐谱的大部分音是在哪个自然音级上，尤其注意变化音级，然后快速反推其调号。如G大调有一个#F，其他的都是自然音。
@@ -10653,6 +10669,22 @@ https://www.bilibili.com/video/BV1nx411q72a?t=753
 
 等手弹熟了，最后再加上踏板。因为踏板会掩盖手指技法与演奏上的不足。
 
+## 记谱
+
+INTELLECTUAL MEMORY（理解记忆）：最好+最难掌握的记忆方式。能够理解乐谱，并依靠记忆，直接手写100%还原乐谱（最高要求）。理解记忆找规律，然后进行“块状记忆”，如同背诗，最笨的方式就是一个字一个字地死记硬背，更好的是理解之后，一个词、一个句子为单位来背。
+
+另外，即兴演奏可以帮助理解记忆（因为即兴演奏的前提是理解音乐）
+
+aural memory：通过听觉记忆，并能够在脑海中回放乐谱。比如手弹着第一乐段，脑海里已经开始放第二乐段，做好心理准备，并辅助肌肉记忆。
+
+motor memory（最常见的记忆方式）：肌肉记忆，乐谱不过脑，单纯靠潜意识记忆乐谱。该记忆方式不适合用于公开演奏，因为平时练习的感觉（无压力，可以反复练习，无需对表演效果负责）和公开演奏（有压力，必须一次过，要对比表演效果负责）感觉很不一样，潜意识的肌肉记忆很不靠谱。
+
+另外，思考可能会破坏肌肉记忆。肌肉记忆靠潜意识表演乐谱，但思考（如“下一段左手要弹什么片段”）打乱潜意识的肌肉记忆，以至于让表演进行不下去。
+
+平时练习可以依靠：1. 极慢地演奏速度来打破潜意识的肌肉记忆，并慢慢感受自己演奏的是什么（什么和弦/什么进行/什么音级等等）；2. 换不同场所练习，避免肌肉记忆和演奏环境绑定。
+
+visual memory：视觉记忆，靠脑海中的乐谱图像记忆乐谱。少数人靠这个记忆。
+
 ## 视奏
 
 ### 视奏的关键
@@ -10879,7 +10911,13 @@ D,G,,C,
 
 # MIDI与合成器
 
-参考文档：[YAMAHA合成器参数说明书](https://tw.yamaha.com/files/download/other_assets/4/330184/cp4cp40_synth_zh_pm_a0.pdf)、[MOX6/MOX8说明书](https://usermanual.wiki/Yamaha/mox6mox8zhrmb0.4063800285.pdf)
+参考文档：
+
+[Constructive Synthesis](http://thewessens.net/synthbook/#constructive-synthesis)
+
+[YAMAHA合成器参数说明书](https://tw.yamaha.com/files/download/other_assets/4/330184/cp4cp40_synth_zh_pm_a0.pdf)
+
+[MOX6/MOX8说明书](https://usermanual.wiki/Yamaha/mox6mox8zhrmb0.4063800285.pdf)
 
 ## 概述
 
@@ -11072,7 +11110,7 @@ Roland最新推出的模拟合成器Boutique系列 复刻了许多传奇合成�
   * 成本低。硬件波表是把波表存储在ROM中，而且现在也有软件波表
   * 复音实现起来更加容易
 
-### 组件
+### 组件（Components）
 
 由Xfer Records出品的serum合成器是现如今大多数电子音乐制作人的必备合成器：
 
@@ -11123,7 +11161,7 @@ ADSR控制由 包络发生器. 压控放大器（VCA）控制音频信号的音�
 * 滤波模式/滤波器类型：Lowpass（低通）、Highpass（高通）、Bandpass（带通）、Peak（截止频率的增益）、Notch（陷波）
 * Drive：调大滤波声音，通过滤波器进行过载，让声音产生饱满的效果
 
-#### 包络（ENV）
+#### 包络（Envelope、Env）
 
 包络（Envelope）：传统的ADSR包络就包括起音、衰减、持续以及释音。而目前包括起音（attack）、保持（hold）、衰减（decay）、持续（sustain）、释音（release）、延时（Delay）。
 
@@ -11138,7 +11176,7 @@ ADSR控制由 包络发生器. 压控放大器（VCA）控制音频信号的音�
 
 当然通过包络不仅仅可以控制音量，还可以通过它来控制滤波器。
 
-#### 低频振荡器（LFO）
+#### 低频振荡器（Low Frequency Oscillator、LFO）
 
 它可以产生人察觉不出的低频信号，用于调制合成器中其他参数。多用于重复性、背景性的音色，从而达到增加动态的效果。
 
@@ -11152,6 +11190,14 @@ ADSR控制由 包络发生器. 压控放大器（VCA）控制音频信号的音�
 * Offest/Phase：错位——通过拖动波形达到声音的变化
 * Delay：延时——LFO的开始启用所需要的时间
 * Trig/Restart/Free：自由模式——LFO会完全独立的开始运转，音高就变的不确定了，一般在歌曲中会让LFO不断运行作为节奏片段
+
+#### 路由（Routing）
+
+#### 步进器（Sequencer）
+
+#### 琶音器（Arpeggiator）
+
+#### 效果器（Effects）
 
 ### 五大波形（Waves）
 
