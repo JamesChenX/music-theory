@@ -23,6 +23,10 @@ MIDI与合成器
 
 必须要会键盘，不然学习的时候，只看乐理无法感受音效效果，这样的学习对于后期的旋律创作以及即兴创作没有帮助
 
+# 拜男神Tom
+
+![img](README.assets/71Axz0QtgKL._SL1074_.jpg)
+
 # 练习网站
 
 * https://tonesavvy.com/music-practice-exercises/
