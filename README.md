@@ -346,15 +346,18 @@ https://www.tonegym.co/tool/item?id=scale-analyser
 
 #### 特性音程
 
+在和声调式中，由于和声大调第六级相较于自然大调第六级降低了一个半音，和声小调第七级相较于自然小调第七级升高了一个半音，因而产生了自然大、小调中没有的增二度、增五度、减四度、减七度。这四种音程为和声调式所特有，所以叫做和声调式的特性音程。
+
 #### 音程表
 
 [Interval Calculator](https://www.musictheory.net/calculators/interval)
 
-| 半音数   | 0                              | 1                            | 2                          | 3                                       | 4                           | 5                              | 6                                                            | 7                             | 8                           | 9                           | 10                      | 11                            | 12                       |
-| -------- | ------------------------------ | ---------------------------- | -------------------------- | --------------------------------------- | --------------------------- | ------------------------------ | ------------------------------------------------------------ | ----------------------------- | --------------------------- | --------------------------- | ----------------------- | ----------------------------- | ------------------------ |
-| 音程     | 纯一度<br />（Perfect Unison） | 小二度<br />（Minor Second） | 大二度<br />(Major Second) | 小三度<br />（Minor Third）             | 大三度<br />（Major Third） | 纯四度<br />（Perfect Fourth） | 增四度/减五度<br />（三全音、Augmented Fourth、Diminished Fitth） | 纯五度<br />（Perfect Fifth） | 小六度<br />（Minor Sixth） | 大六度<br />（Major Sixth） | 小七度（Minor Seventh） | 大七度<br />（Major Seventh） | 纯八度（Perfect Eighth） |
-| 协和性   | 完全协和音程                   | 不协和音程（Dissonant）      | 不协和音程                 | 不完全协和音程（Imperfect consonances） | 不完全协和音程              | 协和音程                       | 不协和音程                                                   | 协和音程                      | 不完全协和音程              | 不完全协和音程              | 不协和音程              | 不协和音程                    | 完全协和音程             |
-| 英文缩写 | P1                             | m2                           | M2                         | m3                                      | M3                          | P4                             | A4、d5                                                       | P5                            | m6                          | M6                          | m7                      | M7                            | P8                       |
+| 半音数   | 0                              | 1                            | 2                          | 3                                       | 4                           | 5                              | 6                                                            | 7                             | 8                                  | 9                           | 10                             | 11                            | 12                       |
+| -------- | ------------------------------ | ---------------------------- | -------------------------- | --------------------------------------- | --------------------------- | ------------------------------ | ------------------------------------------------------------ | ----------------------------- | ---------------------------------- | --------------------------- | ------------------------------ | ----------------------------- | ------------------------ |
+| 音程     | 纯一度<br />（Perfect Unison） | 小二度<br />（Minor Second） | 大二度<br />(Major Second) | 小三度<br />（Minor Third）             | 大三度<br />（Major Third） | 纯四度<br />（Perfect Fourth） | 增四度/减五度<br />（三全音、Augmented Fourth、Diminished Fifth） | 纯五度<br />（Perfect Fifth） | 小六度/增五度<br />（Minor Sixth） | 大六度<br />（Major Sixth） | 小七度/增六度（Minor Seventh） | 大七度<br />（Major Seventh） | 纯八度（Perfect Eighth） |
+| 协和性   | 完全协和音程                   | 不协和音程（Dissonant）      | 不协和音程                 | 不完全协和音程（Imperfect consonances） | 不完全协和音程              | 协和音程                       | 不协和音程                                                   | 协和音程                      | 不完全协和音程                     | 不完全协和音程              | 不协和音程                     | 不协和音程                    | 完全协和音程             |
+| 英文缩写 | P1                             | m2                           | M2                         | m3                                      | M3                          | P4                             | A4、d5                                                       | P5                            | m6                                 | M6                          | m7                             | M7                            | P8                       |
+| 振动比例 | 1:1                            | 15:16                        | 8:9                        | 5:6                                     | 4:5                         | 3:4                            | 32:45（或者45:64，取决于调的方式）                           | 2:3                           | 5:8                                | 3:5                         | 5:9                            | 8:15                          | 1:2                      |
 
 * 增音程 > 大音程 > 小音程 > 减音程
 * 增音程 > 纯音程 > 减音程
@@ -464,6 +467,10 @@ https://www.tonegym.co/tool/item?id=scale-analyser
 * 原位C-F#：增四
 
   转位F#-C：减五
+
+作用
+
+可以根据小音程快速推算出大音程：
 
 #### 音程的协和性（听起来舒服与否）
 
@@ -2384,7 +2391,7 @@ F	Bo/F	Em	Am	Dm	G	C	C7
 
 ------
 
-## 和弦（和声学范畴）
+## 和弦（Chord、Harmony。和声学范畴）
 
 总表：https://en.wikipedia.org/wiki/Template:Chords
 
@@ -2552,7 +2559,7 @@ C大三和弦（135）的Csus2挂二和弦是三音变成二音，Csus4（或Csu
 
 以任何一个音为根音都可以构成4种三和弦。
 
-|        | 大三和弦（常用）                                             | 小三和弦（常用）                                             | 增三和弦（不常用）                                           | 减三和弦（不常用）                                           |
+|        | 大三和弦（常用）                                             | 小三和弦（常用）                                             | 增三和弦（很不常用）                                         | 减三和弦（不常用）                                           |
 | ------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 构成   | 根音+大三度音+小三度音（根音与五音是纯五度音程关系）<br />![image-20200814223358679](README.assets/image-20200814223358679.png) | 根音+小三度音+大三度音（根音与五音是纯五度音程关系）<br/><br/>![image-20200814223411298](README.assets/image-20200814223411298.png) | 根音+大三度音+大三度音（根音与五音是增五度音程关系）<br/><br/>![image-20200814223424270](README.assets/image-20200814223424270.png) | 根音+小三度音+小三度音（根音与五音是减五度音程关系）<br/><br/>![image-20200814223436663](README.assets/image-20200814223436663.png) |
 | 协和性 | 协和和弦（不包括不协和音程）                                 | 协和和弦                                                     | 不协和和弦（包括不协和音程）                                 | 不协和和弦                                                   |
@@ -2561,6 +2568,15 @@ C大三和弦（135）的Csus2挂二和弦是三音变成二音，Csus4（或Csu
 大三和弦和小三和弦的根音和冠音一样，只是小三和弦的中音比大三和弦小了一个半音。
 
 ![image-20200812204211463](C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20200812204211463.png)
+
+|             | Lower Interval    | Upper Interval    |
+| ----------- | ----------------- | ----------------- |
+| Augmented:  | M3 (4 half steps) | M3 (4 half steps) |
+| Major:      | M3 (4 half steps) | m3 (3 half steps) |
+| Minor:      | m3 (3 half steps) | M3 (4 half steps) |
+| Diminished: | m3 (3 half steps) | m3 (3 half steps) |
+| Sus2:       | M2 (2 half steps) | P4 (5 half steps) |
+| Sus4:       | P4 (5 half steps) | M2 (2 half steps) |
 
 #### 性质（色彩？）
 
@@ -2658,16 +2674,16 @@ Q:60
 
 #### 八个类型（以根音C为例）
 
-| 常用名称                                                  | 系统名称                     | 构成                                                         | 标记                                    | 色彩             |
-| --------------------------------------------------------- | ---------------------------- | ------------------------------------------------------------ | --------------------------------------- | ---------------- |
-| 大七和弦<br />Major seventh                               | 大大七和弦                   | 大三和弦（M）+大七度<br />![ { \override Score.TimeSignature #'stencil = ##f \relative c' {    \clef treble \time 4/4   <c e g b>1 } } ](README.assets/qvw2nmaw-16432796327438.png) | Cmaj7<br/>CM7<br/>CΔ7<br/>CΔ            | Happy/Calm       |
-| 属七和弦<br />Dominant seventh<br />（从调式功能描述）    | 大小七和弦（从和弦结构描述） | 大三和弦（M）+小七度。通常以属音为根音（注意不一定全是以属音为根音，只要满足大小七和弦，人们也习惯叫做属和弦）构成的七和弦，例如在C大调里，属音为G，所以构成的七和弦为GBDF<br />![ { \override Score.TimeSignature #'stencil = ##f \relative c' {    \clef treble \time 4/4   <c e g bes>1 } } ](README.assets/lexl266j.png) | Cdom7<br />C7                           | Tense            |
-| 小七和弦<br />Minor seventh                               | 小小七和弦                   | 小三和弦（m）+小七度<br />![ { \override Score.TimeSignature #'stencil = ##f \relative c' {    \clef treble \time 4/4   <c es g bes>1 } } ](README.assets/nw84pced.png) | Cmin7<br/>Cm7<br/>C−7                   | Sad              |
-| 小大七和弦<br />Minor major seventh                       | 小大七和弦                   | 小三和弦（m）+大七度<br />![ { \override Score.TimeSignature #'stencil = ##f \relative c' {    \clef treble \time 4/4   <c es g b>1 } } ](README.assets/2yi17x9l.png) | Cmmaj7<br/>CmM7<br/>CmΔ7<br/>C−Δ7       | Confused Sadness |
-| 半减七和弦<br />小七减五和弦<br />Half-diminished seventh | 减小七和弦                   | 减三和弦（dim）+小七度<br />![ { \override Score.TimeSignature #'stencil = ##f \relative c' {    \clef treble \time 4/4   <c es ges bes>1 } } ](README.assets/8zq3qvv2.png) | Cm7♭5<br/>C−7♭5<br/>Cø                  |                  |
-| 减七和弦<br />Diminished seventh                          | 减减七和弦                   | 减三和弦（dim）+减七度<br />![ { \override Score.TimeSignature #'stencil = ##f \relative c' {    \clef treble \time 4/4   <c es ges beses>1 } } ](README.assets/ikqqpmwi.png) | Co7<br/>Cdim7<br/>Cm(♭7)♭5<br/>C-(♭7)♭5 |                  |
-| 增七和弦<br />Augmented seventh                           | 增小七和弦                   | 增三和弦（aug）+小七度<br />![ { \override Score.TimeSignature #'stencil = ##f \relative c' {    \clef treble \time 4/4   <c e gis bes>1 } } ](README.assets/phqkgka4.png) | Caug7<br/>C+7                           |                  |
-| 增大七和弦<br />Augmented major seventh                   | 增大七和弦                   | 增三和弦（aug）+大七度<br />![ { \override Score.TimeSignature #'stencil = ##f \relative c' {    \clef treble \time 4/4   <c e gis b>1 } } ](README.assets/jxb20h0z.png) | Cmaj7♯5<br/>C+M7<br/>C+Δ7               |                  |
+| 常用名称                                                     | 系统名称                     | 构成                                                         | 标记                                    | 色彩             |
+| ------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------------ | --------------------------------------- | ---------------- |
+| 大七和弦<br />Major seventh<br />（常见）                    | 大大七和弦                   | 大三和弦（M）+大七度<br />![ { \override Score.TimeSignature #'stencil = ##f \relative c' {    \clef treble \time 4/4   <c e g b>1 } } ](README.assets/qvw2nmaw-16432796327438.png) | Cmaj7<br/>CM7<br/>CΔ7<br/>CΔ            | Happy/Calm       |
+| 属七和弦<br />Dominant seventh<br />（从调式功能描述。常见） | 大小七和弦（从和弦结构描述） | 大三和弦（M）+小七度。通常以属音为根音（注意不一定全是以属音为根音，只要满足大小七和弦，人们也习惯叫做属和弦）构成的七和弦，例如在C大调里，属音为G，所以构成的七和弦为GBDF<br />![ { \override Score.TimeSignature #'stencil = ##f \relative c' {    \clef treble \time 4/4   <c e g bes>1 } } ](README.assets/lexl266j.png) | Cdom7<br />C7                           | Tense            |
+| 小七和弦<br />Minor seventh<br />（常见）                    | 小小七和弦                   | 小三和弦（m）+小七度<br />![ { \override Score.TimeSignature #'stencil = ##f \relative c' {    \clef treble \time 4/4   <c es g bes>1 } } ](README.assets/nw84pced.png) | Cmin7<br/>Cm7<br/>C−7                   | Sad              |
+| 小大七和弦<br />Minor major seventh<br />（不常见）          | 小大七和弦                   | 小三和弦（m）+大七度<br />![ { \override Score.TimeSignature #'stencil = ##f \relative c' {    \clef treble \time 4/4   <c es g b>1 } } ](README.assets/2yi17x9l.png) | Cmmaj7<br/>CmM7<br/>CmΔ7<br/>C−Δ7       | Confused Sadness |
+| 半减七和弦<br />小七减五和弦<br />Half-diminished seventh<br />（常见） | 减小七和弦                   | 减三和弦（dim）+小七度<br />![ { \override Score.TimeSignature #'stencil = ##f \relative c' {    \clef treble \time 4/4   <c es ges bes>1 } } ](README.assets/8zq3qvv2.png) | Cm7♭5<br/>C−7♭5<br/>Cø                  |                  |
+| 减七和弦<br />Diminished seventh<br />（常见）               | 减减七和弦                   | 减三和弦（dim）+减七度<br />![ { \override Score.TimeSignature #'stencil = ##f \relative c' {    \clef treble \time 4/4   <c es ges beses>1 } } ](README.assets/ikqqpmwi.png) | Co7<br/>Cdim7<br/>Cm(♭7)♭5<br/>C-(♭7)♭5 |                  |
+| 增七和弦<br />Augmented seventh<br />（不常见）              | 增小七和弦                   | 增三和弦（aug）+小七度<br />![ { \override Score.TimeSignature #'stencil = ##f \relative c' {    \clef treble \time 4/4   <c e gis bes>1 } } ](README.assets/phqkgka4.png) | Caug7<br/>C+7                           |                  |
+| 增大七和弦<br />Augmented major seventh<br />（不常见）      | 增大七和弦                   | 增三和弦（aug）+大七度<br />![ { \override Score.TimeSignature #'stencil = ##f \relative c' {    \clef treble \time 4/4   <c e gis b>1 } } ](README.assets/jxb20h0z.png) | Cmaj7♯5<br/>C+M7<br/>C+Δ7               |                  |
 
 ![Image](README.assets/640-16432658499545.webp)
 
@@ -2730,30 +2746,34 @@ Q:60
 
 1. 用大七和弦演奏五声音阶，如原本C三和弦为135，可以演奏为1236
 
-### 转位和弦（Inversions）
+### 转位和弦（Inversions、Inverted Triads）
 
-作用
+#### 作用
 
 * 让音高更相近（缩短高音或低音部分的音程）
 * 增加变化，丰富和声（尤其在副歌部分）
 * 通过转位实现根音连接。例如：（F → C → D）的和弦進行可以將中間的 C 和弦改成第一轉位，變成（F → C/E → Dm），將低音拉成一直線的音階下行
 
-根音在低音位置时称原位和弦，不在低音位置时称转位和弦。转位和弦的稳定程度要逊于原位。
+#### 含义
+
+根音（Root）在低音（Bass）位置时称原位和弦，不在低音位置时称转位和弦。转位和弦的稳定程度要逊于原位。
+
+![image-20220605152523895](README.assets/image-20220605152523895.png)
 
 和弦低音的选择决定了和弦的稳定性，以及和弦的情绪色彩。比如小七和弦Am7的第一转位C6,听起来反而更接近大三和弦。同样大七和弦Cmaj7的一转也会更接近小三和弦Em的阴沉感。
 
 - 和弦根音在最下方叫原位和弦
 
-- 和弦三音在最下方叫和弦的第一转位。
+- 和弦三音在最下方叫和弦的第一转位（first inversion）。
   在三和弦中，低音与上面的两个音分别构成三度和六度，故名三六和弦，简称六和弦，以数字“6”标记。
 
   在七和弦中，低音与其上的七音与根音分别相距五度和六度，故名五六弦，以数字“”标记
 
-- 和弦五音在最下面叫和弦的第二转位。
+- 和弦五音在最下面叫和弦的第二转位（second inversion）。
   在三和弦中，低音与上面的两个音分别构成四度和六度，故名四六和弦，以数字“”标记
   在七和弦中，低音与七音、根音分别相距三度和四度，故名三四和弦，以数字“”标记
 
-- 和弦七音或六音在最下方叫和弦的第三转位
+- 和弦七音或六音在最下方叫和弦的第三转位（third inversion）
   在七和弦中，低音与根音相距二度，故名二和弦，以数字“2”标记
 
 ![image-20200826215849702](README.assets/image-20200826215849702.png)
@@ -2772,7 +2792,16 @@ Q:60
 
 例如：用来避免高音和低音跨度太大，用转位和弦来提升低音旋律线条
 
-##### 原位和弦与和弦第一转位的衔接
+#### 例子
+
+| *Lead-sheet Symbol* | *Root of Chord* | *Notes in the Chord* | *Bass Note (Lowest Note)* |
+| ------------------- | --------------- | -------------------- | ------------------------- |
+| FAF/A               | FF              | FF–AA–CC             | AA                        |
+| DmADm/A             | DD              | DD–FF–AA             | AA                        |
+| GDG∘/D♭             | GG              | GG–BB♭–DD♭           | DD♭                       |
+| CGC+/G♯             | CC              | CC–EE–GG♯            | G                         |
+
+#### 原位和弦与和弦第一转位的衔接
 
 作用：让原位和弦与和弦第一转位衔接得更自然
 
@@ -2788,25 +2817,27 @@ Q:60
 
 ![image-20200821161310803](README.assets/image-20200821161310803.png)
 
-### 挂留和弦（sus和弦、suspended chord）与Slash和弦
+### 挂留和弦（sus和弦、suspended chord）与Slash和弦（Slash Chords）
 
 流行乐常见。
 
 挂留和弦是在三和弦基础上用挂留音代替三音而形成的非三度排列的和弦。
 
+![image-20220605155536952](README.assets/image-20220605155536952.png)
+
 #### 作用
 
 挂留和弦会带来紧张的感觉，古典乐理作用是增加音乐的张力（tension），所以在和弦的弹奏上，需要再解决（resolution）到原本的和弦；但爵士乐理就可不解决。
 
-sus4，7sus听上去其实是**比较中性的，大小和弦的感觉并不强**，主要还是以sus本身的模糊的色彩为主。
+* sus4，7sus听上去其实是**比较中性的，大小和弦的感觉并不强**，主要还是以sus本身的模糊的色彩为主。
 
-而之所以会感到有大小和弦的色彩，应该是来自于和弦在和声进行中的位置所带来的暗示。比如同样是Csus4，在C调里听起来就感觉更偏向大和弦，或者说会下意识地期待sus解决到大三度，同样地，在Bb调里，就会偏向于小和弦。
+  而之所以会感到有大小和弦的色彩，应该是来自于和弦在和声进行中的位置所带来的暗示。比如同样是Csus4，在C调里听起来就感觉更偏向大和弦，或者说会下意识地期待sus解决到大三度，同样地，在Bb调里，就会偏向于小和弦。
 
-而9sus，13sus，可以拆成斜线和声，比如C9sus，可以写成Bb/C，而C13sus可以写成BbMaj7/C。因为上方的和弦都是大和弦，所以这两个和声听起来都有大和弦的听感，都很明亮。
+* 而9sus，13sus，可以拆成斜线和声，比如C9sus，可以写成Bb/C，而C13sus可以写成BbMaj7/C。因为上方的和弦都是大和弦，所以这两个和声听起来都有大和弦的听感，都很明亮。
 
-而7susb9听起来就比较phrygian了，或者说更偏向于解决到alter音阶，所以听感上是非常暗的，比单纯的小三（七）和弦还要暗一些。
+* 而7susb9听起来就比较phrygian了，或者说更偏向于解决到alter音阶，所以听感上是非常暗的，比单纯的小三（七）和弦还要暗一些。
 
-#### 挂四和弦（sus4和弦）
+#### 挂四和弦（sus/sus4和弦、suspended fourth chord）
 
 是指三和弦或者七和弦里的三音被四音所取代，使之距根音为纯4度所形成的和弦（sus4 chord），因其3音被取代，没有大和弦与小和弦的声响，因此和弦听起来较为中性。
 
@@ -2818,7 +2849,7 @@ sus4和弦在流行音乐中非常常见，sus4和弦一般情况下是用在属
 
 加音和弦就是在三和弦基础上再加一个音符，常用和弦为加九和弦。
 
-Cadd9：加9和弦，在三和弦上附加根音上方九度音。135+升2
+Cadd9（C add nine）：加9和弦，在三和弦上附加根音上方九度音。135+升2
 
 但常用的形态是将九度音降低一个八度，变为根音上方二度音。
 
@@ -2880,10 +2911,19 @@ Cadd2：一个三和弦加了大二度音之后，会有一个模糊的感觉。
 
 ### 和弦识别方法
 
-* 先看三个音是否都在线上或间上，
+目标：识别和弦的根音、性质（大小增减和弦）、低音（是否是转位和弦）、构成音
+
+* 先把所有音都反转到高音谱表
+
+  ![image-20220605153635317](README.assets/image-20220605153635317.png)
+
+* 看三个音是否都在线上或间上，
+  
   * 如果是，则为三和弦原位
-  * 如果不是，则看音符远近，如果下面两个音近，上面两个音远为`六和弦`。如果上面两个音近，下面两个音远为`四六和弦`。并看上方音的最下一个音是什么，，它是什么音，那它就是什么和弦的转位。
+  * 如果不是，则看音符之间的远近，如果下面两个音近，上面两个音远为`六和弦`。如果上面两个音近，下面两个音远为`四六和弦`。并看上方音的最下一个音是什么，它是什么音，那它就是什么和弦的转位。
+  
 * 原位三和弦直接通过键盘数半音判断大小，转位和弦回到原位以后再数半音判断大小。
+
 * 识别和弦级数与性质（大小增减等）：从X调数到X和弦，算下相差几度，那几度就是该和弦的级数：
   * 如在D大调中，E和弦在ii级上（副下属和弦/小三和弦/小七和弦），因为D->E= 2
   * 如在D大调中，C和弦在vii级上（导和弦/减三和弦/半减七和弦），因为D->C = 7
@@ -2954,6 +2994,10 @@ Cadd2：一个三和弦加了大二度音之后，会有一个模糊的感觉。
 #### 功能和声
 
 如果在一段调性音乐中，我们能够将所有被使用的和声分类成主功能、属功能和下属功能，那么我们称这类音乐使用的和声为功能和声(英语：functional harmony)。 如果在一段音乐中，我们无法将所使用的和声分类成主功能、属功能和下属功能，那么我们称这类音乐使用的和声为非功能和声(英语：nonfunctional harmony)。 功能和声被最大量使用的时期是[共晓时期](https://zh.wikipedia.org/wiki/共晓时期)，也就是17世纪、18世纪、和19世纪的西方艺术音乐。
+
+##### 作用
+
+* 快速给流行音乐配和弦
 
 ##### 类别
 
@@ -3111,6 +3155,12 @@ Cadd2：一个三和弦加了大二度音之后，会有一个模糊的感觉。
 #### 功能和声音乐与调性音乐的区别
 
 所有使用功能和声的音乐都是调性音乐，所有无调性音乐使用的都是非功能和声。 但应注意的是，**不是**所有调性音乐都使用功能和声。例如西方文艺复兴时期使用的中古调式音乐、[传统五声调式音乐](https://zh.wikipedia.org/wiki/中國五聲音階)、和德彪西的印象派音乐等都有明确的调性中心、都属于调性音乐，但是这些音乐都不使用功能和声。调性与调性中心的确立手法除了使用功能和声以外还有很多，例如[固定低音](https://zh.wikipedia.org/wiki/固定低音)、[持续低音](https://zh.wikipedia.org/wiki/持续低音)、持续高音、旋律[终止式](https://zh.wikipedia.org/wiki/終止_(音樂))的结束音(英语：final)和吟诵音(英语：tenor)等等。
+
+#### 表
+
+![image-20220605165117294](README.assets/image-20220605165117294.png)
+
+![image-20220605165129269](README.assets/image-20220605165129269.png)
 
 ### 和弦色彩（情感）
 
@@ -3961,9 +4011,21 @@ CEGA | D F B
 
 ## 终止式（Cadence）
 
-#### 完全终止
+指以旋律或和声上的配置作为乐曲的解决或歇止。在调性音乐中终止式是用来强调乐句的主音的主要方法。
 
-给听众句号的感觉，情绪结束。常用于段落结束的最后一句，或者整首歌的最后一句。如C大调音乐中，当旋律延留到了1，并且给一个主和弦C，即构成完全终止。
+### 正格终止式（Authentic cadence）——Ⅴ-Ⅰ
+
+正格终止式指V-I或IV-V-I进行，当中属七和弦可以替代属和弦。这终止式可以说是大部分调性音乐的必然收结。
+
+![Francis Scott Key and John Stafford Smith, “Star-Spangled Banner”](README.assets/image-20220605180613145.png)
+
+![Lennon-McCartney, “I Want to Hold Your Hand”](README.assets/image-20220605180835320.png)
+
+#### 完全终止式（Perfect authentic cadence/PAC）
+
+此终止式的和弦皆在它们的根音之上，而主音也在最后的和弦之顶。除了大调的V-I进行外，小调的V-i也可以属于此终止式。普遍来说，这种和弦是最强的一种，可以完全地达致和声和旋律上的终结。
+
+给听众句号的感觉，情绪结束。常用于段落结束的最后一句，或者整首歌的最后一句。
 
 构成完全终止：
 
@@ -3977,21 +4039,51 @@ CEGA | D F B
 
 ![image-20200811223916918](C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20200811223916918.png)
 
-#### 阻碍终止
+#### 不完全终止式（Imperfect authentic cadence/IAC）
 
-当旋律延留到1，用Am和弦形成阻碍终止。
+当旋律延留到3，并且用一个C和弦就构成了不完全终止。是分号排比的感觉。将情感递进与升华的作用。
 
-#### 半终止
+注意下属和弦（F和弦），即没有逗号也没有句号的感觉。只能用在旋律开始与经过，不能用在旋律延留的时候。
+
+可分为三类。
+
+* 原位IAC：主音并非为最后和弦最高音。
+* 转位IAC：一个或多个和弦出现转位。
+* 导音IAC：V和弦变成被viio和弦所代替（但依然解决到I和弦上）。
+
+#### 回避终止式（Evaded cadence）
+
+![image-20220605175029439](README.assets/image-20220605175029439.png)
+
+### 半终止（Half Cadence）——Ⅴ
 
 如果旋律不停留在1上，而停留在234567，则都只会有逗号的感觉，是情绪的转折。
 
 需要使用属和弦（G和弦、Em和弦）
 
-#### 不完全终止
+#### 正格半终止（Authentic half cadence、正格半收终止）
 
-当旋律延留到3，并且用一个C和弦就构成了不完全终止。是分号排比的感觉。将情感递进与升华的作用。
+用属功能的和声结束的终止式叫做正格半终止。以V和弦作结的终止式，之前的可以是V、ii、IV、V/V、![image-20220605175222840](README.assets/image-20220605175222840.png)或I等等的和弦。此终止式给人未完或延续的感觉，因此通常来说是弱终止式，并预告乐曲的继续。
 
-注意下属和弦（F和弦），即没有逗号也没有句号的感觉。只能用在旋律开始与经过，不能用在旋律延留的时候
+* 弗里吉亚终止式(Phrygian cadence)：iv6-V进行的终止式。此终止式因低音部分的半音行进很像弗里吉亚调式中的II-I终止式而得名。此终止式源于文艺复兴时期，因此它听起来也有古老的感觉(尤其它之前有v和弦时)。另外巴洛克时期常用的做法是以此和弦终结一个缓慢的乐章，紧接着的是一个快乐章。
+* 吕底亚终止式(Lydian cadence)
+* 勃艮第终止式(Burgundian cadences)
+
+#### 变格半终止（Plagal half cadence、变格半收终止）
+
+用下属功能的和声结束的终止式叫做变格半终止。一般以IV级和弦结束，偶尔也可能以ii级和弦结束，之前一般是主功能和声，如I、vi、iii等，也可能是离调和弦。
+
+### 变格终止式（Plagal cadence、阿门终止(Amen cadence)）——Ⅳ-Ⅰ
+
+变格终止式也被称为阿门终止，由于它经常出现于圣诗中阿们歌词的部分。它为IV-I进行，但由于未能达到为乐曲的调性提供解决，在古典主义曲目中不常见，IV-I进行通常伴随着正格终止式。另外，I-IV-I进行有机会被解读成V-I-V。
+
+### 阻碍终止式（Interrupted cadence/Deceptive cadence）——Ⅴ-vi
+
+以属功能和弦（一般是V或V7）起但不以I作结(通常是大调的vi或小调的VI、偶尔也出现大调的IV6、小调的iv6等等)。它为一个弱终止式，因为它创造了一个悬念。由于V级和弦后一般期待的是I级和弦，但是在阻碍终止里，I级和弦本应该出现的位置被vi级和弦替代了，给听众形成了一种意外的音响效果，因此，阻碍终止属于意外进行的一种。
+
+阻碍进行是指在乐句任意位置属功能和弦进行到vi级和弦的过程，当阻碍进行发生在乐句末尾时，我们称之为阻碍终止；因此，阻碍终止是阻碍进行的一种。阻碍进行也是意外进行的一种。
+
+### 应用
 
 #### 大七和弦终止法
 
