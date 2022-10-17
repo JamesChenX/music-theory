@@ -39,17 +39,63 @@ MIDI与合成器
 
 ![技能树](README.assets/技能树.jpg)
 
-* 【配器与乐器演奏】最重要的是熟悉一件和弦乐器，并且从四大件的标准写法开始，不断扩展高级的用法，以及高级的乐器。 
-* 【乐理与和弦部分】重要的是理解在基础和弦进行之上进行“和弦替换”的思路，并掌握自己熟悉的、灵活的和弦编配方法，进而达到即兴伴奏的水平。 
-* 从最开始，“机械化”地设计编曲的段落，到增加艺术化的表达，将编曲作为服务音乐情绪的工具。
-* 【听力与扒带】虽然当前AI扒带准确度很高，但听力训练，更多的是为了培养乐感，不断的扒带，是升级自己的编曲作品到出版级的必经之路。 
-* 【软硬件】是编曲的工具，虽然编曲初期仅仅需要一个电脑，甚至不需要其他硬件，但随着编曲学习深入，硬件设备、软音源，以及混音的技巧是必不可缺的。 
+* 听力与扒带：虽然当前AI扒带准确度很高，但听力训练，更多的是为了培养乐感，不断的扒带，是升级自己的编曲作品到出版级的必经之路。
+* 乐理与和弦部分：重要的是理解在基础和弦进行之上进行“和弦替换”的思路，并掌握自己熟悉的、灵活的和弦编配方法，进而达到即兴伴奏的水平。 
+* 配器与乐器演奏：最重要的是熟悉一件和弦乐器，并且从四大件的标准写法开始，不断扩展高级的用法，以及高级的乐器。 
+* 歌曲设计：从最开始，“机械化”地设计编曲的段落，到增加艺术化的表达，将编曲作为服务音乐情绪的工具。 
+* 软硬件：是编曲的工具，虽然编曲初期仅仅需要一个电脑，甚至不需要其他硬件，但随着编曲学习深入，硬件设备、软音源，以及混音的技巧是必不可缺的。 
 
 学习方法：理论学习、实践操作、扒带模仿
 
 # 拜男神Tom
 
 ![img](README.assets/71Axz0QtgKL._SL1074_.jpg)
+
+# 教学大纲（Syllabuses）
+
+## UK Music Grade System
+
+Students starting a music degree in the UK are expected to be at grade 8 minimum in their instrument and at least grade 5 in music theory. Beyond grade 8, music exams can be taken at diploma level - there are 3 levels post grade 8, roughly equivalent to undergraduate 1st year, Bachelors and Masters degrees.
+
+## What ABRSM/Trinity Music Theory Grade are You?
+
+https://www.mymusictheory.com/for-students/quizzes/388-what-music-theory-grade-are-you
+
+- There are 8 grades (followed by diplomas from Trinity but not ABRSM).
+- Grade 1 is elementary level and starts with basic notation, keys with 1 sharp/flat in the key signature, three different time signatures, and the treble and bass clefs.
+- Each subsequent grade is slightly more complex with added keys, foreign terms, time signatures, musical symbols, chords and intervals.
+- Grade 5 is the required level for anyone who wants to take an ABRSM practical exam at grade 6 or higher (some alternative exams are allowed - see the ABRSM website for details). Grade 5 Trinity is also accepted by the ABRSM as a pre-requisite.
+- Grades 6-8 take an in depth look at harmony, figured bass (ABRSM only) and compositional techniques. A pass or higher at these grades gives you credit in the form of UCAS points. Grade 8 is roughly the same level as an undergraduate first year music degree.
+
+## Grades 1-5 vs. Grades 6-8
+
+There is a big difference in the **type** of content in the earlier music theory grade exams, compared to the higher three levels.
+
+Grades 1-5 basically require you to learn musical **facts**, and then give those facts as answers. A "fact" might be a particular scale, or what an ornament is, or what a key signature stands for, for example.
+
+In grades 6-8, 50% of the exam is **skills-based**, and your answers will be creative. You will need to **write music** - harmony, or melody, or both. (Grades 1-5 used to include a skills-based composition question, but the ABRSM sadly removed this in 2018). For most students, the gap between grades 5 and 6 is very large, because learning **skills** tends to be more difficult than just learning **facts**. For this reason, you should not assume that you will sail through ABRSM grade 6 theory quickly, if you found the earlier grades quite easy - they are a different kind of exam.
+
+## THE ABRSM MUSIC THEORY SYLLABUS FROM 2020
+
+https://gb.abrsm.org/media/65223/music-theory-grades-1-8-qualification-specification-2020-v11-final.pdf
+
+* Guided Learning Hours: Under the guidance of a teacher
+* Total Qualification Time: Under the guidance of a teacher and time spent preparing independently
+
+| Grade | SYLLABUS                                                     | Course                                                       | GLH  | TQT  |
+| ----- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ---- |
+| 1     | 1. Note values of semibreve, minim, crotchet, quaver and semiquaver, and their equivalent rests (candidates may use the terms ‘whole note’, ‘half note’, etc.). Tied notes. Singledotted notes.<br/>2. Simple time signatures of  , bar-lines and the grouping of the notes listed above within these times.<br/>3. The stave. Treble (G) and bass (F) clefs. Names of notes on the stave, including middle C in both clefs. Sharp, flat and natural signs, and their cancellation.<br/>4. Construction of the major scale, including the position of the tones and semitones. Scales and key signatures of the major keys of C, G, D and F in both clefs, with their tonic triads (root position), degrees (number only), and intervals above the tonic (by number only).<br/>5. Some frequently used terms and signs concerning tempo, dynamics, performance directions and articulation marks. Simple questions will be asked about a melody written in either treble or bass clef. | 1. The Staff and Notes<br/>2. Bass Clef<br/>3. Accidentals<br/>4. Time Names of Notes<br/>5. Time Names of Rests<br/>6. Dotted Notes<br/>7. Time Signatures<br/>8. Beaming Notes<br/>9. Tied Notes<br/>10. Tones & Semitones<br/>11. Major Scales & Scale Degrees<br/>12. Key Signatures<br/>13. Intervals<br/>14. Tonic Triads<br/>15. Rhythm<br/>16. Dynamics<br/>17. Symbols<br/>18. Foreign Terms<br/>19. Handwriting Music | 6    | 20   |
+| 2     | 1. Simple time signatures of and the grouping of notes and rests within these times. Triplets, and triplet note groups with rests.<br/>2. Extension of the stave to include two ledger lines below and above each stave.<br/>3. Relative major and minor keys. Construction of the minor scale (harmonic only). Scales and key signatures of the major keys of A, B b and E b, and the minor keys of A, E and D, with their tonic triads (root position), degrees (number only), and intervals above the tonic (by number only).<br/>4. More terms and signs in common use. | 1. Notes, Rests & Ledger Lines<br/>2. Treble & Bass Clef, Pitch and Transposition<br/>3. Major Scales<br/>4. Minor Scales<br/>5. Degrees of the Scale<br/>6. Key Signatures & Accidentals<br/>7. Working with Key Signatures<br/>8. Writing Scales<br/>9. Simple Time Signatures<br/>10. Working with Time Signatures<br/>11. Rewriting in a New Time Signature<br/>12. Adding Rests<br/>13. Tonic Triads<br/>14. Intervals<br/>15. Triplets<br/>16. Composing a Rhythm<br/>17. Foreign Terms<br/>18. Handwriting Music<br/>19. Musical Devices | 9    | 30   |
+| 3     | 1. Compound time signatures of and the grouping of notes and rests within these times. The demisemiquaver (32nd note) and its equivalent rest.<br/>2. Extension of the stave beyond two ledger lines. Transposition at the octave from the treble clef to the bass clef, and vice versa.<br/>3. Scales and key signatures of all major and minor keys up to and including four sharps and flats, including both harmonic and melodic forms of minor scales, with their tonic triads (root position), degrees (number only), and intervals above the tonic (number and type).<br/>4. More terms and signs. | 1. New for Grade Three<br/>2. Notes, Symbols & Terms<br/>3. Scales<br/>4. Key Signatures<br/>5. Degrees of the Scale & Tonic Triads (ABRSM)<br/>5. Chords (Trinity)<br/>6. Time Signatures<br/>7. Adding Bar Lines & Time Signatures<br/>8. Adding Rests & Beaming Notes in Groups<br/>9. Intervals<br/>10. Transposition<br/>11. Rewriting with Different Time Values<br/>12. Completing a Rhythm<br/>13. Questions about a Score<br/>14. Finding Deliberate Mistakes | 9    | 50   |
+| 4     | 1. All simple and compound duple, triple and quadruple time signatures, and the grouping of notes and rests within these times. The breve and its equivalent rest. Double-dotted notes and rests. Duplets.<br/>2. Alto clef (C clef centred on 3rd line). Notes in the alto clef in any of the keys set for this grade (see below). Notes of the same pitch written in different clefs (treble, alto, bass) and transposition at the octave from the treble or the bass clef to the alto clef, and vice versa. Double sharp and double flat signs, and their cancellation. Enharmonic equivalents.<br/>3. Scales and key signatures of all major and minor keys up to and including five sharps and flats, with both forms of minor scales. Technical names for the notes of the diatonic scale (tonic, supertonic, etc.). Construction of the chromatic scale. All intervals, not exceeding an octave, between any two diatonic notes in any of the keys set for this grade.<br/>4. Triads (root position) on the tonic, subdominant and dominant notes in any of the keys set for this grade. Chords in root position on the tonic, subdominant and dominant notes in any of the keys set for this grade (the harmonic form of the scale will be used in minor keys).<br/>5. More terms and signs, including the recognition and naming of the trill, turn, upper and lower mordent, acciaccatura and appoggiatura. Questions about a passage of music will include simple related questions about standard orchestral instruments. | 1. Introduction to Grade Four<br/>2. Double Sharps & Flats and Enharmonics<br/>3. Keys, Scales & Technical Names<br/>4. Chromatic Scales<br/>5. Intervals<br/>6. Triads & Chords<br/>7. Breves and Double Dots<br/>8. Time Signatures<br/>9. Duplets & Rewriting in a New Time Signature<br/>10. Writing a Rhythm<br/>11. Clefs & Transposition<br/>12. Musical Instruments<br/>13. Ornaments and Foreign Terms | 12   | 58   |
+| 5     | 1. Irregular time signatures of and the grouping of notes and rests within these times. Irregular divisions of simple time values.<br/>2. Tenor clef (C clef centred on 4th line). The identification of notes in the four clefs in any of the keys set for this grade (see below), and the transposition at the octave of a simple melody from any clef to another. Transposition to concert pitch of a short melody notated for an instrument in Bb, A or F, and vice versa (the interval of transposition up or down will be given).<br/>3. Scales and key signatures of all major and minor keys up to and including six sharps and flats. All simple and compound intervals from any note.<br/>4. The root position (a), 1st inversion (b) and 2nd inversion (c) forms of the tonic, supertonic, subdominant and dominant chords in any of the keys set for this grade. The choice of suitable chords at cadential points of a simple melody in the major key of C, G, D or F. Perfect, plagal and imperfect cadences in the major keys of C, G, D or F.<br/>5. More terms and signs. The recognition of ornaments, including the replacement of written-out ornamentation with the appropriate signs, but not vice versa. Questions on the types of voice and names of instruments, the clefs they use, instrument family groups and the basic way by which they produce sound, as well as points of general musical observation designed to test the candidate’s ability to apply theoretical knowledge to actual music. | 1. Good Notation<br/>2. Foreign Terms Alphabetical List<br/>3. Time Signatures<br/>4. Clefs<br/>5. Key Signatures<br/>6. Scales<br/>7. Intervals<br/>8. Transposing<br/>9. SATB Writing for Voices<br/>10. Describing Chords<br/>11. Progressions & Cadences<br/>12. Composing a Melody: General Tips<br/>13. Composing a Melody for Instruments<br/>14. Composing a Melody for Voice<br/>15. Instruments of the Orchestra | 12   | 90   |
+| 6     | The harmonic vocabulary will include:<br/><br/>1. The use of 5 3, 6 3 and 6 4 chords on any degree of the major or minor (harmonic and melodic) scale;<br/>2. The recognition of the dominant seventh chord in root position, first, second and third inversions, in any major or minor key; and<br/>3. The supertonic seventh chord in root position and first inversion, in any major or minor key; and • The figuring for all the above chords.<br/>4. An understanding of the principles of modulation and a knowledge of cadences, ornamentation and melodic decoration, which might include passing notes, auxiliary notes, appoggiaturas, changing notes and notes of anticipation will also be expected.<br/><br/>Questions will cover:<br/><br/>Writing specified chords for voices in four parts or for keyboard (at the candidate’s choice) above a given bass part of about four bars.<br/><br/>The indication of suitable chords for the accompaniment of a diatonic melody of about eight bars in any key, using any recognised method of notation, or, at the candidate’s choice, the provision of a bass to a given melody, adding figures to indicate the intended harmonies.<br/><br/>Composition of a melody for a specified instrument (a choice will be provided), using a given opening. Modulation to the dominant, subdominant, relative major or relative minor may be required.<br/><br/>Questions on short extracts of music written for piano or in open score for voices or for any combination of instruments and/or voices, designed to test the candidate’s knowledge of the elements and notation of music, including the realisation of ornaments, the identification and notation of underlying harmonic structure, phrase structure, style, performance, and on the voices and instruments for which the works were written. | A1. Introduction to Harmony<br/>A2. Triads and Chords<br/>A3. Inversions<br/>A4. Chord Progressions<br/>A5. Melodic Decoration<br/>A6. Harmonizing a Melody I<br/>A7. Harmonizing a Melody II<br/>A8. Figured Bass an Introduction<br/>A9. Figured Bass Rules for Realization<br/>A10. Figured Bass Worked Example<br/>A11. Adding a Figured Bassline<br/>The Rules of Harmony<br/>B0. Composition - Introduction<br/>B1. Composition - Architecture<br/>B2. Composition - Motifs & Sequences<br/>B3. Composition - Cadences<br/>B4. Composition - Interpolation<br/>B5. Composition - Key and Tonality<br/>B6. Composition - Modulation<br/>B7. Composition - How to Compose<br/>C1a. Reading an Orchestral Score<br/>C1b. Reading a Chamber Music Score<br/>C2a. Musical Instruments, Families and Names<br/>C2b. Transposing, Reed & String Instruments<br/>C3. Musical Terms and Signs<br/>C4. Commenting on Music<br/>C5. Key<br/>C5. Keys - Exercises<br/>C6a. Naming Chords<br/>C6b. Chords in a Score<br/>C7a. Ornaments<br/>C7b. Melodic Decoration and Pedals<br/>C8. Technical Exercises<br/>C9. Periods and Composers<br/>C10. Score Reading Tips | 18   | 130  |
+| 7     | 1. The recognition of all diatonic secondary seventh chords and their inversions<br/>2. The Neapolitan sixth and the diminished seventh chords<br/>3. All figures commonly used by composers during the period c.1620–1790 to indicate harmonies above a bass part.<br/><br/>Questions will cover:<br/><br/>The indication of chords and movement of the inner parts by figuring the bass in a passage in which both the melody and bass are given.<br/><br/>Rewriting a given passage to include appropriate suspensions and notes of melodic decoration.<br/><br/>Continuation of a given opening for solo instrument with keyboard accompaniment, which will be given in full throughout the passage, by completing the solo part, or, at the candidate’s choice, composition of a melody for a specified instrument (a choice will be provided) based on a given progression of chords or melodic figure.<br/><br/>Questions on short extracts of music written for piano or in open score for voices or for any combination of instruments and/or voices, designed to test the candidate’s knowledge of the elements and notation of music, including the realisation of ornaments, the identification and notation of underlying harmonic structure, phrase structure, style, performance, and on the voices and instruments for which the works were written. | Composition<br/>Figured Bass<br/>Harmony Reconstruction<br/>Score Reading | 24   | 170  |
+| 8     | The harmonic vocabulary will include all standard diatonic and chromatic chords.<br/><br/>Questions will cover:<br/><br/>Continuation of a given opening of a passage from a Baroque trio sonata for two treble instruments and basso continuo. The basso continuo part will be given throughout and fully figured (but a realisation for keyboard will not be required).<br/><br/>Completion of an outline of a short passage for keyboard. Some knowledge of the styles practised by composers from the time of Haydn onwards will be assumed.<br/><br/>Continuation of a given opening of a melody for a specified instrument (a choice will be given).<br/><br/>Questions on short extracts of music written for piano or in open score for voices or for any combination of instruments and/or voices, designed to test the candidate’s knowledge of the elements and notation of music, including the realization of ornaments, the identification and notation of underlying harmonic structure, phrase structure, style, performance, and on the voices and instruments for which the works were written. | Composition<br/>Keyboard Reconstruction<br/>Score Reading<br/>Trio Sonatas | 36   | 210  |
+
+## The introduction of elements at each grade
+
+看上面的PDF——Exam content
 
 # 基础乐理
 
@@ -58,6 +104,8 @@ https://www.musicbody.net/music/theory/index.html
 非常全面的乐理书：[Music Theory for the 21st-Century Classroom](https://musictheory.pugetsound.edu/mt21c/MusicTheory.html)
 
 https://musictheory.pugetsound.edu/hw/MusicTheory-Aug-2020.pdf
+
+循序渐进且有很多实用练习题：https://www.mymusictheory.com/grade-1-course
 
 带Podcast授课：https://musicstudent101.com/
 
@@ -207,15 +255,13 @@ https://www.tonegym.co/tool/item?id=scale-analyser
 
 ##### 变音记号（Accidentals）
 
-临时升降号对同一小节内的同一个八度音有效
-
-* 升记号（#）：升记号表示要将基本音级升高半音来演奏（唱）
+* 升记号（#，Sharp symbol）：升记号表示要将基本音级升高半音来演奏（唱）。C# = C sharp
 
   特别注意：E和F、B和C是半音关系，因此#E在钢琴键盘上的实际位置应是F，#B在钢琴键盘上的实际位置应是C
 
   ![image-20200814222146896](README.assets/image-20200814222146896.png)
 
- * 降记号（b）：表示要将基本音级降低半音来演奏（唱）
+ * 降记号（b，Flat symbol）：表示要将基本音级降低半音来演奏（唱）。Db = D flat
 
    特别注意：E和F、B和C为半音关系，因此bF在钢琴键盘上的实际位置应是E，bC在钢琴键盘上的实际位置应是B
 
@@ -227,7 +273,29 @@ https://www.tonegym.co/tool/item?id=scale-analyser
    
  * 重降记号（bb）表示将基本音级降低两个半音（一个全音）。
    
- * 还原记号（♮）表示将已经升高或降低的音还原。提醒：有时还原记号只是其提示作用，提醒演奏者前面的音虽然临时升降号了，但这个音不需要。
+ * 还原记号（♮，natural）表示将已经升高或降低的音还原。G = G natural。
+
+   提醒：有时还原记号只是其提示作用，提醒演奏者前面的音虽然临时升降号了，但这个音不需要。
+
+###### 临时升降号对同一小节内的同一个八度音有效
+
+![Accidentals and bar lines - music theory](README.assets/3_accidentals_clip_image002_0000.jpg)
+
+1 is natural, because we haven’t put any accidentals.
+
+2 is flattened by the flat symbol.
+
+3 is also flattened by the symbol from number 2, because it's in the same bar.
+
+4 is natural, because the bar line cancels the effect of the flat.
+
+5 is flattened by the accidental symbol.
+
+6 is naturalised by the bar line.
+
+![octave-accidental](README.assets/octave-accidental.png)
+
+Note 3 is a G natural. The flat on number 2 doesn’t affect it, because it’s not the same pitch – it’s an octave higher.
 
 #### 和声中的级数与名称（Scale Degree Names）
 
@@ -300,12 +368,12 @@ https://www.tonegym.co/tool/item?id=scale-analyser
 
 音程：两个音之间的距离。
 
-半音（Half Step）：两音之间最小的距离。钢琴键盘上相邻的两个琴键的距离就为半音，如E和F、B和C即为半音。
+半音（Half Step、Semitone（UK））：两音之间最小的距离。钢琴键盘上相邻的两个琴键的距离就为半音，如E和F、B和C即为半音。
 
 * 由两个相邻音级构成的半音叫自然半音：E-F、B-C、C-bD、#C-D、×F-#G
 * 由同一音级的两种不同形式或不相邻的两个音级间构成的半音叫变化半音：bD-D、C-#C、#B-bD、E-bbG
 
-全音（Whole Step）：两个半音可以构成一个全音。从钢琴键盘上来看，全音的特点是两音中间相隔一个琴键，如C和D、F和G这样的两音中间相隔一个黑键即为全音。
+全音（Whole Step、Tone（UK））：两个半音可以构成一个全音。从钢琴键盘上来看，全音的特点是两音中间相隔一个琴键，如C和D、F和G这样的两音中间相隔一个黑键即为全音。
 
 * 由两个相邻音级构成的全音叫自然全音：C-D、#F-#G、bC-bD、bB-C
 * 由同一音级的两种不同形式或不相邻的两个音级间构成的全音叫变化全音：bC-#C、C-bbC、bbB-B、#C-bE、A-bC
@@ -363,6 +431,12 @@ https://www.tonegym.co/tool/item?id=scale-analyser
 * 增音程 > 纯音程 > 减音程
 
 **注意：音程的度数不受变音记号影响**
+
+##### 注意键盘上的音之间的音程关系
+
+![img](README.assets/webp.webp)
+
+以C为根音为例，白键上要么是“大”，要么是“纯”；黑键上要么是“小”，要么是“增”或“减”。
 
 #### 快速识别音程
 
@@ -448,6 +522,8 @@ https://www.tonegym.co/tool/item?id=scale-analyser
 
 规律：原位与转位的度数相加等于9；大小增减互换，纯音程不变。
 
+![image-20220605141835780](README.assets/image-20220605141835780.png)
+
 * 原位C-D：大二度
 
   转位D-C：小七度
@@ -471,6 +547,8 @@ https://www.tonegym.co/tool/item?id=scale-analyser
 作用
 
 可以根据小音程快速推算出大音程：
+
+![image-20220605142604560](README.assets/image-20220605142604560.png)
 
 #### 音程的协和性（听起来舒服与否）
 
@@ -607,6 +685,10 @@ https://www.tonegym.co/tool/item?id=scale-analyser
 
 定义：重拍和弱拍周期性的、有规律的、重复进行的模式
 
+* Strong beat: this is the strongest accent in the bar and falls right at the beginning of the bar.
+* Weak beat: these are the other crotchet beats of the bar. 
+* Off beat: these are any notes which fall in between the strong and/or weak beats.
+
 #### 打节拍练习
 
 正拍节奏很简单，直接跟着节拍器练即可。
@@ -628,17 +710,21 @@ https://www.youtube.com/watch?v=FaU-HXperj0
 
 节拍具有均匀性。节拍是强弱规律性的反复交替，没有时值变化。因此，有人称节拍是被合理地设计出来的，人工地、机械地规定出来的。节奏包含着节拍的特点，而节拍却不能概括节奏的全部意义。
 
-##### 单位拍
+![img](README.assets/1-s2.0-S1053811905007172-gr2.gif)
+
+#### 单位拍
 
 用某种固定时值的音符来表示节拍中的每一个时间片段，即“一拍”（Beat）。单位拍内也有强位、弱位之分。 
 
-##### 拍号（Time Signature）
+#### 拍号（Time Signature）
 
 表示节拍的记号。它由上下两个数字组成，下方数字代表单位拍的音符时值，上方数字代表单位拍的数量即拍子。 比如3/4拍是：三拍子、以四分音符为单位拍，念四三拍，英文是three four time。
 
 ![image-20220604154227759](README.assets/image-20220604154227759.png)
 
-##### 拍子（Meter）
+![2-4-notes](README.assets/2-4-notes.png)
+
+#### 拍子（Meter）
 
 将单位拍按照一定的强弱关系组织起来。
 
@@ -667,6 +753,8 @@ https://www.youtube.com/watch?v=FaU-HXperj0
 ![image-20220604165308775](README.assets/image-20220604165308775.png)
 
 #### 常见拍子
+
+https://www.mymusictheory.com/reference/65-music-theory/237-time-signatures-chart
 
 | 分类     | 英美体系 | 拍号 | 别称   | 含义                                                         | 强弱规律                                |
 | -------- | -------- | ---- | ------ | ------------------------------------------------------------ | --------------------------------------- |
@@ -918,7 +1006,7 @@ SUBDIVIDE THE BEAT 1-2-3-4 BECOMES 1-8-2-&-3-&-4-&SYNCOPATED NOTES COMEON THE 'A
 
 ### 连音（Tuplet）
 
-为在指定的节拍中加以分拆或结合而成的音符组合，包括三连音和二连音。标记方法为加上数字或比例，以指出对固有节拍的改变，有时亦会用向下的中括号或连结线标出连音的范围。
+为在指定的节拍中加以分拆或结合而成的音符组合，包括三连音和二连音。标记方法为加上数字或比例，以指出对固有节拍的改变，有时亦会用向下的中括号或连结线（beam）标出连音的范围。
 
 通常标示连音只会简单地标上数字，但这方法有时会引起误会。如七连音可以由四拍、六拍分拆而来或由八拍结合而来。为了有效分辨它们，会分别以7:4、7:6、7:8表示，前者为音符数目，后者为节拍数目。
 
@@ -970,15 +1058,171 @@ https://en.wikipedia.org/wiki/Tuplet
 
 ------
 
-## 五线谱记号
+## 五线谱记谱法（staff notation）
+
+### 五线谱（Music Staff; Stave）
+
+![stave](README.assets/stave.png)
+
+### 五线谱记号（Musical Symbols）
 
 https://en.wikipedia.org/wiki/List_of_musical_symbols
 
+谱号（Clef）
+
+* 高音谱号（treble clef、G clef）
+
+![Treble clef with G - music theory](README.assets/1-staff_and_notes_clip_image010.jpg)
+
+* 低音谱号（bass clef、F clef）
+
+  ![Listen to F in the bass clef](README.assets/2-clefs_clip_image004.jpg)
+
 小节线：在乐曲的记谱中，使小节被此分开的垂直细线。小节线起到分割小节的作用，它作为强拍的标记，写在强拍的前面。
 
-### 连音记号（Legato。圆滑线、连音线、Slur）
+#### 音符（Notes）
 
-用连线标记，一般记写在音符的上方或下方，表示连线内的音要唱、奏得连贯、流畅。
+![notes-and-rests](README.assets/notes-and-rests.png)
+
+* 全音符（Whole notes、Semibreves）：![Semibreve](README.assets/4_time_names_notes_clip_image022.jpg)
+* 二分音符（Half notes、Minims）：![Minims](README.assets/4_time_names_notes_clip_image018.jpg)
+* 四分音符（Quarter notes、Crotchets）：**![Crotchets - music theory](README.assets/4_time_names_notes_clip_image006.jpg)**
+* 八分音符（Eighth notes、Quavers）：![Quavers - music theory](README.assets/4_time_names_notes_clip_image012.jpg)
+* 十六分音符（Sixteenths、Semiquavers）：![Semiquavers](README.assets/4_time_names_notes_clip_image008.jpg)
+
+![note-values-to-count](README.assets/note-values-to-count.png)
+
+#### 休止符（Rests）
+
+* 全休止符（Whole rests、Semibreve Rests）：![Semibreve rest in music theory](README.assets/blank_page_clip_image012.jpg)
+* 二分休止符（Half rests、Minim rests）：![Minim rest in music theory](README.assets/blank_page_clip_image010.jpg)
+* 四分休止符（Quarter rest、Crotchet rest）：![Crotchet rest in music theory](README.assets/blank_page_clip_image002.jpg)、![Alternative crotchet rest in music theory](README.assets/blank_page_clip_image004.jpg)
+* 八分休止符（Eighth rest、Quaver rests）：![Quaver rest in music theory](README.assets/blank_page_clip_image006.jpg)
+* 十六分休止符（Sixteenth rest、Semiquaver rests）：![Semiquaver rest in music theory](README.assets/blank_page_clip_image008.jpg)
+
+#### 附点音符（Dotted Notes）
+
+![Dotted Crotchet/Quarter note - music theory](README.assets/6_dotted-notes_clip_image002.jpg)
+
+#### Beaming Notes
+
+##### Making Beamed Notes
+
+![Beamed quavers - music theory](README.assets/7_beaming_clip_image002.jpg) ![Beamed semiquavers - music theory](README.assets/7_beaming_clip_image002_0001.jpg)![Beamed quavers and semiquavers - music theory](README.assets/7_beaming_clip_image002_0005.jpg)![Beamed dotted quaver and semiquaver](README.assets/7_beaming_clip_image002_0006.jpg)![Cut off beams](README.assets/7_beaming_clip_image002_0007.jpg)
+
+##### Beaming and Beats
+
+- The quavers and semiquavers should be joined together to make the crotchet beat obvious. ![2-4-beaming](README.assets/2-4-beaming.png)
+
+  ![2-4-four-quavers-beaming](README.assets/2-4-four-quavers-beaming.png)
+
+- Beams never cross over the bar lines.
+
+- The first note of a beamed group must never fall **on an off beat**, unless it's preceded by a rest or a dotted note.![3-4-quavers-beaming](README.assets/3-4-quavers-beaming.png)
+
+  最后一小节的第四个音符在反拍上
+
+- Groups with **semiquavers** are normally only beamed to make up **one** crotchet beat maximum；Groups which contain semiquavers should normally equal a maximum of one or two crotchets.
+
+  ![3-4-beaming](README.assets/3-4-beaming.png)
+
+  ![4-4-beams](README.assets/4-4-beams.png)
+
+  - The first four notes in bar 1 are all beamed together, making a group worth a minim.
+  - In bar 2, there is one unbeamed quaver. It can't be beamed to the next group because that group needs to start on the third beat of the bar, to show the place of the secondary strong beat.
+  - Bar 3 looks complicated, but it's not really! The first (strongest) beat is the first rest plus the beamed semiquaver and quaver. Together, they make up one crotchet's beat. The second (weak) beat is made up of three beamed semiquavers and a semiquaver's silence. The third (secondary strong beat) begins on the dotted quaver, and the final (weak) is the same as the second beat.
+  - In bar 3, it would be better not to beam the notes into groups worth a minim, because it will make it much more difficult to see which of the notes falls on the 2nd or 4th beat.
+
+- 一般情况下，弱拍上的音符不能与强拍上的音符连续（除非是连音），反之可以。
+
+  ![4-4-quavers-beaming](README.assets/4-4-quavers-beaming.png)
+
+  Bar 3 is incorrect, because the 3rd quaver in the group should have a stronger accent than the first quaver. The importance of the third beat of the bar is hidden.
+
+##### Beaming and Rests
+
+休止符不可以被连线，但可以被上下移动位置，以避免遮挡连线
+
+![Beaming and rests](README.assets/7_beaming_clip_image002_0009.jpg)
+
+##### Stem Direction - Beaming Two Notes
+
+先找到哪个音离中线最远，然后中线相对于最远的那个音，是在下方还是上方。如果中线在下方，连线就在下方，反之就在上方。
+
+连接两个不同音高的D：
+
+![Stems up or stems down in music theory notes](README.assets/7_beaming_clip_image002_0012.jpg) 
+
+In our example above, the bottom D is further away from the middle line than the top D is. The bottom D has its stem pointing upwards, so that's the direction we should use with our beaming:
+
+![Beamed quavers, stems up in music theory](README.assets/7_beaming_clip_image002_0015.jpg)
+
+连接两个不同音高的F：
+
+![Beamed stems point upward with octave Fs in music theory](README.assets/7_beaming_clip_image002_0018.jpg)
+
+###### Angling Beams
+
+If the music is getting higher, the beam should point upwards; if it's getting lower it should be downwards. If the pitch of the beamed notes is the same overall, the beam should be flat.
+
+Sometimes you may need to make the stems on some notes extra long, to allow enough space for everything to be seen.
+
+![angling-beams](README.assets/angling-beams.png)
+
+Bars 1-4 are correct.
+
+In bar 4, the stems are extra long on the lower Es, to allow space for the high E.
+
+In bar 5, the beams is flat but the music is rising - this is incorrect.
+
+In bar 6, the music is falling, but the beam is angled upwards, this is incorrect.
+
+In bar 7, the pitch of the first and last notes is the same, so the beam should be flat.
+
+#### 同音连线（Tie）
+
+In music theory, a tie is a small, curved line which connects two notes of exactly the **same pitch**. The time values of tied notes are added together to make a longer note - you only play the note once.
+
+##### 注意Tie不是Slur
+
+Be careful not to confuse ties and slurs! A tie looks exactly like a slur - but a slur connects two notes of a **different pitch** and tells the player to play the two notes smoothly. The first example shows two tied Fs, the second example shows an F slurred to a G.
+
+![tie-or-slur](README.assets/tie-or-slur.png)
+
+##### 为什么要用Tie
+
+1. When a note has to be held **across a bar line**.
+   ![ties-across-bar-lines](README.assets/ties-across-bar-lines.png)
+
+2. When the length of the note is difficult/impossible to express with a **single** note value. Here, the A is worth a count of 2 and a quarter beats.
+   ![irregular-note-lengths](README.assets/irregular-note-lengths.png)
+
+3. To allow the **beat** to be clearly seen. In 4/4 for example, the third beat (which is the secondary strong beat) should be easy to spot. Bar 1 is correct - by tying two quavers (8th notes), we can see where the third beat starts. Bar 2 uses the same overall note values, but it is difficult to see at first glance where the second strong beat of the bar is.
+   ![ties-to-show-beats](README.assets/ties-to-show-beats.png)
+
+##### Positioning Ties
+
+Ties are usually written on the **opposite** side of a musical note to its stem. In the examples that we just looked at, the F's have their stems down, so the tie is placed above the notes. The As are stems up, so the tie is drawn below the notes.
+
+##### Ties and Accidentals
+
+An accidental placed on the first of two tied notes also applies to the second tied note, even if the two notes are separated by a bar line.
+
+![ties-with-accidentals](README.assets/ties-with-accidentals.png)
+
+The first note in bar 2 is also a G sharp.
+
+Sometimes you might see an accidental in brackets on the second note. This is called a "courtesy" accidental - it's only there to make it clear what the note is supposed to be. 
+
+##### Ties and Beams
+
+We don't normally combine ties and beams on the same notes. Break the beam over two tied notes. Bar 1 is correct: the beam is broken so that the second tied note starts a new beamed group. Bar 2 is incorrect.
+
+![ties-and-beams](README.assets/ties-and-beams.png)
+
+#### 连音记号（Legato。圆滑线、连音线、Slur）
+
+用连线标记，一般记写在音符的上方或下方，表示连线（Beam）内的音要唱、奏得连贯、流畅。
 
 ![img](README.assets/4.2-1.gif)
 
@@ -988,7 +1232,7 @@ https://en.wikipedia.org/wiki/List_of_musical_symbols
 
 在较长的乐段一直有圆滑流畅的要求，则用Legato字样来标记出来。
 
-### 跳音记号（Stagato。顿音、断音）
+#### 跳音记号（Stagato、Staccato。顿音、断音）
 
 用小圆点、倒三角来标记，一般记在音符的上方或者下方，表示该音要唱、奏得相互分离、短促、跳跃（断奏）。
 
@@ -1005,7 +1249,7 @@ https://en.wikipedia.org/wiki/List_of_musical_symbols
 
 ![img](README.assets/4.2-3.jpg)
 
-### 滑音记号
+#### 滑音记号
 
 多用于民间音乐。用斜波线![img](README.assets/4.2-4.jpg)或弯曲的箭头![img](README.assets/4.2-5.jpg)来标记，表示该音在唱、奏时要有向上或向下的滑音，或者是从该音滑向另一音。
 
@@ -1019,7 +1263,7 @@ https://en.wikipedia.org/wiki/List_of_musical_symbols
 
 ![img](README.assets/4.2-9.jpg)
 
-### 反复记号（Repeats）
+#### 反复记号（Repeats）
 
 乐曲部分或全部重复时，可使用反复记号。反复记号按其功能的不同：
 
@@ -1106,6 +1350,8 @@ Fine后面是“终止线”，因为这里是真正的结尾，而D.C. al Fine�
 
 意大利文经常被用于音乐记谱，指导演奏者如何演奏音乐。音乐术语最早是在 17 世纪由意大利作曲家使用，自此之后传播到世界各地。
 
+People often wonder why most musical terms are in Italian and not another language, but actually lots of other languages have been used by composers, in particular German and French. Italy was the birthplace of the Renaissance Era (from about 1350 onwards), and was the place where classical music really took off a few centuries later. Composers from many countries used Italian terms because they were associated with musical excellence, and were understood around the world. Today people think of Italian terms as the normal language in music. 
+
 #### 速度（Tempo）
 
 谱上指示的每分钟拍数（BPM）仅是一般的指引。在现代乐中，节拍器标记指示的 BPM 拍数（例如 ♩= 120）可以作为速度标记的补充或替代。以下列表为速度标记：
@@ -1181,21 +1427,21 @@ Larghissimo* – very, very slow (24 bpm and under)
 
 下列为速度变化的术语和缩写。渐进式的变化术语可以用破折号来延伸，以表示变化的持续时间，例如 "*rit. _ _ _*".
 
-| 术语                       | 缩写          | 意义                                                         |
-| :------------------------- | :------------ | :----------------------------------------------------------- |
-| *a piacere*                |               | 速度任由演奏者决定                                           |
-| *a tempo*                  |               | 用於漸快和漸慢標記之後，表示回復漸快或漸慢之前的速度         |
-| *rallentando*              | rall.         | 渐慢，特別用於章節結束的地方                                 |
-| *ritardando*               | rit., ritard. | 渐慢                                                         |
-| *ritenuto*                 | riten.        | 立即慢下来                                                   |
-| *stretto*                  |               | 立即加快                                                     |
-| *rubato*                   |               | 弹性速度                                                     |
-| *Allargando*               |               | 逐漸減慢轉強，特別用於作品結束的地方                         |
-| *stringendo*               |               | 渐快，字面上有“收紧”之意                                     |
-| *accelerando*              | accel.        | 渐快                                                         |
-| *Meno Mosso*               |               | 緩慢點                                                       |
-| *Più Mosso*                |               | 稍快點                                                       |
-| *Tempo primo* 或 *Tempo I* |               | 如果樂曲有多次速度轉變，Tempo primo 表示回復樂曲一開始的速度，例如一首三段曲式的作品，可以是Allegro - Andante - Tempo Primo |
+| 术语                       | 缩写          | English                     | 意义                                                         |
+| :------------------------- | :------------ | --------------------------- | :----------------------------------------------------------- |
+| *a piacere*                |               |                             | 速度任由演奏者决定                                           |
+| *a tempo*                  |               | At the original speed /time | 用於漸快和漸慢標記之後，表示回復漸快或漸慢之前的速度         |
+| *rallentando*              | rall.         |                             | 渐慢，特別用於章節結束的地方                                 |
+| *ritardando*               | rit., ritard. |                             | 渐慢                                                         |
+| *ritenuto*                 | riten.        |                             | 立即慢下来                                                   |
+| *stretto*                  |               |                             | 立即加快                                                     |
+| *rubato*                   |               |                             | 弹性速度                                                     |
+| *Allargando*               |               |                             | 逐漸減慢轉強，特別用於作品結束的地方                         |
+| *stringendo*               |               |                             | 渐快，字面上有“收紧”之意                                     |
+| *accelerando*              | accel.        | Gradually getting faster    | 渐快                                                         |
+| *Meno Mosso*               |               |                             | 緩慢點                                                       |
+| *Più Mosso*                |               |                             | 稍快點                                                       |
+| *Tempo primo* 或 *Tempo I* |               |                             | 如果樂曲有多次速度轉變，Tempo primo 表示回復樂曲一開始的速度，例如一首三段曲式的作品，可以是Allegro - Andante - Tempo Primo |
 
 ###### 中國音樂的速度
 
@@ -1211,30 +1457,34 @@ Larghissimo* – very, very slow (24 bpm and under)
 
 #### 力度（Dynamics）
 
+##### Static Dynamics
+
 下列为常见的力度记号；这些记号表示响度的相对变化，并不是指特定的音量级别。与其他意大利术语记号相反的是，力度记号标记通常会写在五线之下，或介于两个五线之间。
 
-| 术语            | 符号      | 意义 |
-| :-------------- | :-------- | :--- |
-| *pianississimo* | ***ppp*** | 最弱 |
-| *pianissimo*    | ***pp***  | 极弱 |
-| *piano*         | ***p***   | 弱   |
-| *mezzo piano*   | ***mp***  | 中弱 |
-| *mezzo forte*   | ***mf***  | 中强 |
-| *forte*         | ***f***   | 强   |
-| *fortissimo*    | ***ff***  | 极强 |
-| *fortississimo* | ***fff*** | 最强 |
+| 术语            | 符号      | 意义                   |
+| :-------------- | :-------- | :--------------------- |
+| *pianississimo* | ***ppp*** | 最弱                   |
+| *pianissimo*    | ***pp***  | 极弱、very quiet       |
+| *piano*         | ***p***   | 弱、quietly、softly    |
+| *mezzo piano*   | ***mp***  | 中弱、moderately quiet |
+| *mezzo forte*   | ***mf***  | 中强、moderately loud  |
+| *forte*         | ***f***   | 强、loudly             |
+| *fortissimo*    | ***ff***  | 极强、very loud        |
+| *fortississimo* | ***fff*** | 最强                   |
 
-##### 力度变化（Dynamic changes）
+piano曾经的名字叫“pianoforte”，因为它能演奏很广阔的力度。
+
+##### 力度变化（Changing Dynamics、Dynamic changes）
 
 渐强渐弱符号 (![Crescendo](README.assets/crescendo.svg)![Diminuendo](README.assets/diminuendo.svg)) 用于表示几个小节的力度变化，而 *cresc.* 和 *dim.* 则用来表示较长乐句的力度变化。术语的指示则可以用破折号来延伸，以表示变化的持续时间。
 
-| 术语                             | 符号                                                      | 意义                         |
-| :------------------------------- | :-------------------------------------------------------- | :--------------------------- |
-| *crescendo*                      | ***cresc.*** 或 ![Crescendo](README.assets/crescendo.svg) | 渐强                         |
-| *diminuendo*、decrescendo        | ***dim.*** 或 ![Diminuendo](README.assets/diminuendo.svg) | 渐弱                         |
-| *fortepiano*                     | ***fp***                                                  | 强后即弱                     |
-| *sforzando, forzando, szforzato* | ***sfz***, ***sf*** 或 ***fz***                           | 突强（用于音符或和弦）       |
-| *rinforzando*                    | ***rfz*** 或 ***rf***                                     | 突强（用于音符、和弦或乐句） |
+| 术语                             | 符号                                                         | 意义                         |
+| :------------------------------- | :----------------------------------------------------------- | :--------------------------- |
+| *crescendo*                      | ***cresc.*** 或 ![Crescendo](README.assets/crescendo.svg)（hairpin) | 渐强                         |
+| *diminuendo*、decrescendo        | ***dim.*** 或 ![Diminuendo](README.assets/diminuendo.svg)（hairpin) | 渐弱                         |
+| *fortepiano*                     | ***fp***                                                     | 强后即弱                     |
+| *sforzando, forzando, szforzato* | ***sfz***, ***sf*** 或 ***fz***                              | 突强（用于音符或和弦）       |
+| *rinforzando*                    | ***rfz*** 或 ***rf***                                        | 突强（用于音符、和弦或乐句） |
 
 #### 技巧
 
@@ -1350,6 +1600,17 @@ Articulations specify the length, volume, and style of attack of individual note
 在记忆构成大调/小调的音级时，可以先将该调的基础音级写出，再在基础音级的基础上根据音级关系加上#或b记号。
 
 ![image-20200830232900788](README.assets/image-20200830232900788.png)
+
+|         | Tonic (1st) | 2nd  | 3rd    | 4th    | 5th  | 6th  | 7th    | Tonic |
+| ------- | ----------- | ---- | ------ | ------ | ---- | ---- | ------ | ----- |
+| C Major | C           | D    | E      | F      | G    | A    | B      | C     |
+| G Major | G           | A    | B      | C      | D    | E    | **F#** | G     |
+| D Major | D           | E    | **F#** | G      | A    | B    | **C#** | D     |
+| F Major | F           | G    | A      | **Bb** | C    | D    | E      | F     |
+
+最常见的大调音阶：C/G/D/F大调音阶。
+
+G大调音阶有个F#；D大调音阶有F#和C#；F大调有个Bb
 
 #### 全音阶（Whole tone scale）
 
@@ -1467,17 +1728,30 @@ C属七和弦的构成音为：C、E、G、B♭，而在属七和弦中，对其
 
 调号表明了一段旋律的调式，并标明音符的升或降。线、间上调性的临时升降记号会影响旋律中所有的音符，除非有一个还原号。
 
+When we write music which mostly uses notes from the scale of C major and sounds good finished with a C, we say that the music is "in the key of C major" or "in C a major".  
+
 #### 记忆技巧
 
 * 调号中每个音的升降号位置是固定的
 
 * 如果升降号都没有，那就死记它是C大调、A小调
 
-* 如果是升号，那就看最后一个升号在哪个音上，给它加一个半音，得出来的音就是X大调的主音，而给它减一个全音，那得出的音就是X小调的主音。如调号只有一个F#，那就给F#加一个半音，得到G，那它就是G大调。而给它减去一个全音，得到E，那它就是E小调。
+* 如果是升号，那就看最后一个升号在哪个音上：
+
+  * 给它加一个半音，得出来的音就是X大调的主音
+
+  * 而给它减一个全音，那得出的音就是X小调的主音。
+
+  * 如调号只有一个F#，那就给F#加一个半音，得到G，那它就是G大调。而给它减去一个全音，得到E，那它就是E小调。
+
 
   注意：E#升高一个半音是F#、B#升高一个半音是C#。
 
-* 如果是降号，判断大调：看倒数第二个降号在哪个音上，那个音就是X大调的主音；判断小调：给倒数第一个降号的音加上两个全音，那个音就是X小调的主音。如果只有一个降号，那就死记它是F大调/D小调
+* 如果是降号：
+
+  * 判断大调：看倒数第二个降号在哪个音上，那个音就是X大调的主音
+  * 判断小调：给倒数第一个降号的音加上两个全音，那个音就是X小调的主音。如果只有一个降号，那就死记它是F大调/D小调
+
 
 |                        Key signature                         |                    Major key                     |                    Minor key                     |
 | :----------------------------------------------------------: | :----------------------------------------------: | :----------------------------------------------: |
@@ -1694,6 +1968,8 @@ C属七和弦的构成音为：C、E、G、B♭，而在属七和弦中，对其
 1. 先把旋律中的音找出来（视唱练耳）
 2. 如果旋律没有升降音，则可能是C大调或A小调
 3. 再看开头音与结束音，通过规律“大部分乐器的开头音与结束音落在主音上”判断
+
+### 小调的固定模式（全半全全半全全）
 
 ###  调式中各音级的名称（Scale Degree Names）
 
@@ -2554,6 +2830,8 @@ C大三和弦（135）的Csus2挂二和弦是三音变成二音，Csus4（或Csu
 比如在C和弦中，它的组成音是1、3、5，1音叫作根音，3音叫作三音，5音叫作五音。比如在Cm和弦中，它的组成音是1、♭3、5，1音叫作根音，♭3音叫作三音，5音叫作五音
 
 演奏时，左手一般一个音（根音），负责C1-F2。右手一般三个音，负责G2-B3
+
+主音三和弦（tonic triad）：根音为主音的三和弦
 
 #### 四个类型
 
@@ -3846,6 +4124,16 @@ C7是C延伸出来的，用来结束落在主音上，也不配
 
 注意：251受旋律的限制。如上例中既可以用Em（3572），也可以用Eo（35b72）。因此如果旋律为7，则应该用Em，而不应该用Eo，否则会出现小二度音程（不和谐）。或者直接改旋律，如应要配Eo，则将旋律改为b7
 
+### Chord Symbols in Sheet Music
+
+Pop and rock music sheet music often includes "chord symbols" so that people can jam/improvise their own accompaniments to the tune, for example on the guitar. In popular music, the chords are usually given the letter name of the chord's name. For example, a C major chord is labelled with just a "C". 
+
+![chord symbol letter name c](README.assets/chord-symbol-letter-name-c.png)
+
+In music theory books, chords are often given Roman numerals, so that we can more easily understand how similar chords work in different keys. The tonic chord/triad is chord number one: written with a capital letter I in Roman numerals. 
+
+![chord symbol roman numeral i](README.assets/chord-symbol-roman-numeral-i.png)
+
 ### 键位
 
 ![preview](README.assets/v2-59c445f6ff8885e68a5427d96b652a57_r.jpg)
@@ -3856,7 +4144,7 @@ C7是C延伸出来的，用来结束落在主音上，也不配
 
 比如说一个流行乐队，主唱负责旋律，贝司负责低音，吉他键盘负责的是织体部分。
 
-## 旋律（Rhythm）
+## 旋律（Melody）
 
 旋律：若干乐音经过艺术构思形成的有组织、节奏的序列
 
@@ -6414,7 +6702,7 @@ https://zh.wikipedia.org/wiki/Template:%E6%9B%B2%E5%BC%8F%E5%AD%A6
 
 ### 套曲曲式
 
-## 音乐陈述的基础结构
+## 音乐陈述的基础结构（Melodic Units、Melodic Structure）
 
 ### 半乐汇
 
@@ -6969,7 +7257,7 @@ New Age的配器大多很简单，不过会追求新颖，加一些独特的小�
 
 ![image-20200821181001339](README.assets/image-20200821181001339.png)
 
-## 四部和声（four-part harmony）
+## 四部和声（four-part harmony、SATB: soprano女高音, alto女低音, tenor男高音 and bass男低音）
 
 含义：音乐作品由四个声部记谱，称为四部和声。四部和声是多声部音乐写作的常用形式，与混声四部合唱的记谱相同
 
@@ -7037,6 +7325,20 @@ L:1/8
 K:C
 eeecd4
 ```
+
+### 固定音型（Ostinato）
+
+固定旋律音型（意大利语：ostinato，意思为“顽固的”）为乐曲中以同一个声部重复呈现的乐句，属于音乐动机的一类。
+
+在古典乐里，固定音型的一种表现是固定低音（basso ostinato）。在众多流行乐里，固定音型叫作riff（loop），通常在节奏组乐器上重复，与不断变化的旋律行成对比。Figure 译为“音型”，用来指短小数音的固定组合，将ostinato译为固定音型，不佳。
+
+Here is an example of an ostinato. It is in the left hand (bass clef) part of this piano piece. The pattern in bar 1 is repeated in bars 2, 3 and 4:
+
+![ostinato](README.assets/ostinato.png)
+
+Ostinato patterns can also be made with just rhythm and no melody. A famous example is Ravel’s “Bolero”, which uses an ostinato played by the snare drum, all the way through the piece:
+
+![bolero](README.assets/bolero.png)
 
 ### 动机发展（Motivic Development）
 
