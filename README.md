@@ -681,6 +681,10 @@ Note 3 is a G natural. The flat on number 2 doesn’t affect it, because it’s 
 
 小节：在乐曲中, 由一个强拍到下一个强拍之间的部分。一定数量的拍组合成小节（4/4：4拍为1节）
 
+#### 记忆方式
+
+要一组组的记忆节奏（如4个音值为一组），而不要一个个记，一组记忆更容易记住。
+
 ### 节拍（Meter）
 
 定义：重拍和弱拍周期性的、有规律的、重复进行的模式
@@ -1697,6 +1701,60 @@ C属七和弦的构成音为：C、E、G、B♭，而在属七和弦中，对其
 
 在C半全减音阶中，包含了一个C7属七和弦（CEG bB），音阶中的另外4个音对于C和弦的角度来看，bD是降九音，#D是升九音，#F是升十一音，A是十三音，这四个音都是在属七和弦上常用的变化音或延伸音，因此C的半全减音阶=C7和弦+四个常用的变化音/延伸音，因为很多变化音，所以围绕C7和弦乱弹变化音，也比较好听。
 
+#### 钢琴音阶图
+
+Major——Relative Minor
+
+C![C major scale diagram](README.assets/C.png)![A minor scale diagram](README.assets/Am.png)Am
+
+C#![C# major scale diagram](README.assets/Db.png)![Bb minor scale diagram](README.assets/Bbm.png)Bbm
+
+D![D major scale diagram](README.assets/D.png)![B minor scale diagram](README.assets/Bm.png)Bm
+
+D#![D# major scale diagram](README.assets/Eb.png)![C minor scale diagram](README.assets/Cm.png)Cm
+
+E![E major scale diagram](README.assets/E.png)![C# minor scale diagram](README.assets/Dbm.png)C#m
+
+F![F major scale diagram](README.assets/F.png)![D minor scale diagram](README.assets/Dm.png)Dm
+
+F#![F# major scale diagram](README.assets/Gb.png)![Eb minor scale diagram](README.assets/Ebm.png)Ebm
+
+G![G major scale diagram](README.assets/G.png)![E minor scale diagram](README.assets/Em.png)Em
+
+G#![G# major scale diagram](README.assets/Ab.png)![F minor scale diagram](README.assets/Fm-1666566602427-18.png)Fm
+
+A![A major scale diagram](README.assets/A.png)![F# minor scale diagram](README.assets/Gbm.png)F#m
+
+A#![A# major scale diagram](README.assets/Bb.png)![Gb minor scale diagram](README.assets/Gm.png)Gm
+
+B![B major scale diagram](README.assets/B.png)![Ab minor scale diagram](README.assets/Abm.png)Abm
+
+Pentatonic Major——Pentatonic Minor
+
+ C![C pentatonic major scale diagram](README.assets/major-pentatonic-C.png)![Am pentatonic scale diagram](README.assets/minor-pentatonic-A.png)Am
+
+C#![C# pentatonic major scale diagram](README.assets/major-pentatonic-Db.png)![Bbm pentatonic scale diagram](README.assets/minor-pentatonic-Bb.png)Bbm
+
+D![D pentatonic major scale diagram](README.assets/major-pentatonic-D.png)![Bm pentatonic scale diagram](README.assets/minor-pentatonic-B.png)Bm
+
+D#![D# pentatonic major scale diagram](README.assets/major-pentatonic-Eb.png)![Cm pentatonic scale diagram](README.assets/minor-pentatonic-C.png)Cm
+
+E![E pentatonic major scale diagram](README.assets/major-pentatonic-E.png)![C# pentatonic scale diagram](README.assets/minor-pentatonic-Db.png)C#m
+
+F![F pentatonic major scale diagram](README.assets/major-pentatonic-F.png)![Dm pentatonic scale diagram](README.assets/minor-pentatonic-D.png)Dm
+
+F#![F# pentatonic major scale diagram](README.assets/major-pentatonic-Gb.png)![Ebm pentatonic scale diagram](README.assets/minor-pentatonic-Eb.png)Ebm
+
+G![G pentatonic major scale diagram](README.assets/major-pentatonic-G.png)![Em pentatonic scale diagram](README.assets/minor-pentatonic-E.png)Em
+
+G#![G# pentatonic major scale diagram](README.assets/major-pentatonic-Ab.png)![Fm pentatonic scale diagram](README.assets/minor-pentatonic-F.png)Fm
+
+A![A pentatonic major scale diagram](README.assets/major-pentatonic-A.png)![F#m pentatonic scale diagram](README.assets/minor-pentatonic-Gb.png)F#m
+
+A#![A# pentatonic major scale diagram](README.assets/major-pentatonic-Bb.png)![Gm pentatonic scale diagram](README.assets/minor-pentatonic-G.png)Gm
+
+B![B pentatonic major scale diagram](README.assets/major-pentatonic-B.png)![Abm pentatonic scale diagram](README.assets/minor-pentatonic-Ab.png)Abm
+
 ### 音律（Temperament）
 
 “音律”简称“律”，是指乐音体系中各音的准确高度及音高的相互关系。确定每个音准确高度的方法，称为律制。目前，国际上通用的律制主要有十二平均律、五度相生律、纯律三种。
@@ -1725,6 +1783,8 @@ C属七和弦的构成音为：C、E、G、B♭，而在属七和弦中，对其
 以分音列的第二分音和第三分音之间的纯五度，再插入一个第四分音与第五分音的大三度作为求律的方法，叫作“纯律”。欧洲发现和使用纯律的历史比中国晚得多，南北朝时期，中国的琴律已广泛以七弦十三徽徽位作为定弦标准音使用，这说明纯律的律学理论在当时已经具体运用于实践。
 
 ### 调号（Key Signature）
+
+练习题：https://tonesavvy.com/music-practice-exercise/265/key-signature-grand-staff-identification-game/
 
 调号表明了一段旋律的调式，并标明音符的升或降。线、间上调性的临时升降记号会影响旋律中所有的音符，除非有一个还原号。
 
@@ -1800,7 +1860,7 @@ When we write music which mostly uses notes from the scale of C major and sounds
 
 ### 调式（Mode）
 
-以主音为基础计算出来的，固定的音程结构。两洋音乐有大调式与小调式之分。
+以主音为基础计算出来的，固定的音程结构。西洋音乐有大调式与小调式之分。
 
 调式是以 "调" 的观念为基础，但是从不同角度理解的概念。
 先看一般的理解方式，大部分都会从有一样的音阶音群来看，像是 C 大调跟 G Mixolydian 为例，他们有着同样的音阶音群，但是他们的根音分别为： C 跟 G。他们使用同样的音，但是这些音有着不同的次序：
@@ -6288,7 +6348,15 @@ S－房间表面积，平方。
 
 
 
+# 音乐心理学
 
+音乐是人类意识活动的产物，其多样性和复杂性为人类所独有。音乐心理学是一门从科学视角研究人类音乐思维和行为的学科（Sadie & Tyrrell, 2001）。它涉及音乐感觉、知觉、认知、记忆以及体验等活动，囊括音乐创作、表演、欣赏、教育，乃至治疗等领域，体现出音乐学与心理学的交叉性。正基于此，实证方法是音乐心理学的主要研究方法。这是音乐心理学与音乐学其他学科研究的根本差异。
+
+## 音乐意义
+
+在现实生活中，大多数人总是喜欢从乐曲解说或乐曲说明中获得一些信息，似乎只有这样，才有可能听懂音乐。事实上，乐曲解说或乐曲说明只是撰写者从作曲家和音乐作品的背景资料（如作品标题、创作背景等）提炼出的关于该音乐作品所表现的内容，它体现出撰写者对音乐作品的理解。如果完全依赖于这些文字说明，势必影响甚至阻碍听者对音乐的真正理解。
+
+与文学和绘画艺术不同，音乐不具有语言的语义性或绘画的具象性，音乐通过声音的运动向人们传达创作意图或某种信息，这正是音乐艺术的独特性，也是音乐艺术的魅力所在
 
 # 作曲法
 
