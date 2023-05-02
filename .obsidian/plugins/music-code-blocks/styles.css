@@ -1,0 +1,24 @@
+/* Default abcjs styles look good. Just adapting it to the current theme.  */
+
+.abcjs-container svg path {
+  fill: var(--text-normal);
+}
+
+.abcjs-container svg text {
+  fill: var(--text-normal);
+}
+
+.abcjs-brace {
+  stroke: var(--text-normal);
+}
+
+.obsidian-plugin-abcjs-error {
+  background-color: #E74C3C;
+  color: white;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 8px;
+  text-align: center
+}
