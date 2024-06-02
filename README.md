@@ -49,6 +49,8 @@
 
 ## 值得关注的人/公众号/杂志
 
+好和弦：https://www.youtube.com/@nicechordwiwi/videos
+
 哎呀君：https://www.zhihu.com/people/iyamusic/posts
 
 Haoshen Qi：https://www.zhihu.com/people/haoshen-qi/posts
