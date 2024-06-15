@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fd5ceeeaeb208349",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5.2. 爵士乐 - 历史.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f291b9436a9958b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5.2. 爵士乐 - 历史.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -64,13 +89,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "5ddffa6834fff4f9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6002c9921df0129a",
@@ -86,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "5.2. 爵士乐 - 历史.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "5.2. 爵士乐 - 历史.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "5.2. 爵士乐 - 历史.md"
               }
             }
           }
@@ -135,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.5
+    "width": 415.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,8 +180,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f54770f28e6b34e1",
+  "active": "fd5ceeeaeb208349",
   "lastOpenFiles": [
-    "README.md"
+    "Untitled.md",
+    "5.2. 爵士乐 - 历史.md",
+    "5.1. 爵士乐（爵士钢琴）.md",
+    "README.md",
+    "1. 教学大纲.md",
+    "2. 基础乐理.md",
+    "assets/fig1.1 2.jpg",
+    "assets/fig1.1 1.jpg",
+    "assets/fig1.1.jpg",
+    "4.6. 作曲.md",
+    "4.5. 乐曲分析.md",
+    "4.3. 配器.md",
+    "4.2. 曲式.md",
+    "4.1. 和声.md",
+    "5.3. 爵士乐合奏.md",
+    "10. 音乐生物学.md",
+    "6. 唱歌.md",
+    "7.2. MIDI与合成器.md",
+    "3. 视唱练耳与扒谱.md",
+    "8. 基础声学.md",
+    "9. 音乐心理学.md",
+    "11.音乐处理与编程.md"
   ]
 }

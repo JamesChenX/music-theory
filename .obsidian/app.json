@@ -1,5 +1,6 @@
 {
-  "attachmentFolderPath": "./",
+  "attachmentFolderPath": "assets",
   "readableLineLength": false,
-  "showFrontmatter": false
+  "showFrontmatter": false,
+  "newFileLocation": "root"
 }
