@@ -105,11 +105,15 @@ TODO：补充视唱练耳部分
 
 ## 值得关注的人/公众号/杂志
 
+啟彬與凱雅的爵士樂 Chipin & Kaiya's Jazz：https://www.chipinkaiyajazz.com/
+
 好和弦：https://www.youtube.com/@nicechordwiwi/videos
 
 哎呀君：https://www.zhihu.com/people/iyamusic/posts
 
 Haoshen Qi：https://www.zhihu.com/people/haoshen-qi/posts
+
+https://www.youtube.com/@PianoFromScratch/videos
 
 https://www.bilibili.com/video/BV1PJ411R79Q/?spm_id_from=333.788.videocard.19
 
