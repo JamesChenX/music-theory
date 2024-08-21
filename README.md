@@ -112,7 +112,9 @@ TODO：补充视唱练耳部分
 
 啟彬與凱雅的爵士樂 Chipin & Kaiya's Jazz：https://www.chipinkaiyajazz.com/
 
-好和弦：https://www.youtube.com/@nicechordwiwi/videos
+好和弦：
+* https://www.youtube.com/@nicechordwiwi/videos
+* https://nicechord.com/archives/：强烈推荐。能学到很多“我不知道我不知道”的知识。
 
 哎呀君：https://www.zhihu.com/people/iyamusic/posts
 
@@ -127,6 +129,8 @@ https://zhuanlan.zhihu.com/p/177156632
 https://magazine.midifan.com/
 
 ## 优秀资料
+
+《粤语流行曲的发展与兴衰：香港流行音乐研究》—— 黃霑：评价：仙品。
 
 [如何用音乐来表达抽象的感觉](https://www.huxiu.com/article/428049.html)
 
