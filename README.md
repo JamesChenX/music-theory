@@ -137,6 +137,8 @@ Play-along（伴奏是为了练习目的而制作的、带有bass、鼓和有时
 * https://www.youtube.com/@nicechordwiwi/videos
 * https://nicechord.com/archives/：强烈推荐。能学到很多“我不知道我不知道”的知识。
 
+[emastered](https://emastered.com/blog)
+
 哎呀君：https://www.zhihu.com/people/iyamusic/posts
 
 Haoshen Qi：https://www.zhihu.com/people/haoshen-qi/posts
